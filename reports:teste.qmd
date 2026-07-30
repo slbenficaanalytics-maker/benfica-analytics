@@ -1,0 +1,27 @@
+---
+title: "Benfica Analytics - Teste"
+format: html
+execute:
+  echo: false
+  warning: false
+  message: false
+---
+
+## Calendário da Primeira Liga
+
+Esta é a primeira página experimental do projeto.
+
+```{r}
+library(tidyverse)
+
+matches <- read_csv(
+  "data/processed/benfica_matches_2026_27.csv",
+  show_col_types = FALSE
+)
+
+first_matches <- matches |>
+  select(date, matchday, opponent, venue) |>
+  slice_head(n = 10)
+
+first_matches
+```

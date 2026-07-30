@@ -1,0 +1,16 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Benfica Analytics"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Início
+      - href: reports/teste.qmd
+        text: Teste
+
+format:
+  html:
+    toc: true

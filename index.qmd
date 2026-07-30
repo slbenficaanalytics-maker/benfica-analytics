@@ -1,0 +1,37 @@
+---
+title: "Benfica Analytics"
+subtitle: "Laboratório experimental de análise estatística do SL Benfica"
+format: html
+execute:
+  echo: false
+  warning: false
+  message: false
+---
+
+## Projeto
+
+Este projeto reúne dados, métricas próprias e modelos estatísticos experimentais sobre o desempenho do SL Benfica.
+
+## Calendário da Primeira Liga
+
+```{r}
+library(tidyverse)
+
+matches <- read_csv(
+  "data/processed/benfica_matches_2026_27.csv",
+  show_col_types = FALSE
+)
+
+matches |>
+  select(
+    Data = date,
+    Jornada = matchday,
+    Adversário = opponent,
+    Local = venue
+  ) |>
+  slice_head(n = 10)
+```
+
+## Estado atual
+
+A época ainda não começou. Os resultados e indicadores serão atualizados depois de cada jogo.
