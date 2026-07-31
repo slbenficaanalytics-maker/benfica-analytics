@@ -1,0 +1,35 @@
+id,utcDate,status,matchday,home_team,away_team,home_goals,away_goals
+545717,2025-08-16T19:30:00Z,FINISHED,2,CF Estrela da Amadora,Sport Lisboa e Benfica,0,1
+545721,2025-08-23T19:30:00Z,FINISHED,3,Sport Lisboa e Benfica,CD Tondela,3,0
+545729,2025-08-31T17:00:00Z,FINISHED,4,FC Alverca,Sport Lisboa e Benfica,1,2
+545742,2025-09-12T19:15:00Z,FINISHED,5,Sport Lisboa e Benfica,CD Santa Clara,1,1
+545745,2025-09-20T17:00:00Z,FINISHED,6,AVS,Sport Lisboa e Benfica,0,3
+545702,2025-09-23T19:15:00Z,FINISHED,1,Sport Lisboa e Benfica,Rio Ave FC,1,1
+545760,2025-09-26T19:15:00Z,FINISHED,7,Sport Lisboa e Benfica,Gil Vicente FC,2,1
+545771,2025-10-05T20:15:00Z,FINISHED,8,FC Porto,Sport Lisboa e Benfica,0,0
+545779,2025-10-25T19:30:00Z,FINISHED,9,Sport Lisboa e Benfica,FC Arouca,5,0
+545789,2025-11-01T20:30:00Z,FINISHED,10,Vitória SC,Sport Lisboa e Benfica,0,3
+545796,2025-11-09T20:30:00Z,FINISHED,11,Sport Lisboa e Benfica,Casa Pia AC,2,2
+545807,2025-11-29T18:00:00Z,FINISHED,12,CD Nacional,Sport Lisboa e Benfica,1,2
+545812,2025-12-05T20:15:00Z,FINISHED,13,Sport Lisboa e Benfica,Sporting Clube de Portugal,1,1
+545824,2025-12-14T18:00:00Z,FINISHED,14,Moreirense FC,Sport Lisboa e Benfica,0,4
+545830,2025-12-22T20:45:00Z,FINISHED,15,Sport Lisboa e Benfica,FC Famalicão,1,0
+545843,2025-12-28T18:00:00Z,FINISHED,16,Sporting Clube de Braga,Sport Lisboa e Benfica,2,2
+545848,2026-01-03T18:00:00Z,FINISHED,17,Sport Lisboa e Benfica,GD Estoril Praia,3,1
+545855,2026-01-17T20:30:00Z,FINISHED,18,Rio Ave FC,Sport Lisboa e Benfica,0,2
+545870,2026-01-25T18:00:00Z,FINISHED,19,Sport Lisboa e Benfica,CF Estrela da Amadora,4,0
+545874,2026-02-01T20:30:00Z,FINISHED,20,CD Tondela,Sport Lisboa e Benfica,0,0
+545882,2026-02-08T20:30:00Z,FINISHED,21,Sport Lisboa e Benfica,FC Alverca,2,1
+545895,2026-02-13T18:30:00Z,FINISHED,22,CD Santa Clara,Sport Lisboa e Benfica,1,2
+545898,2026-02-21T18:00:00Z,FINISHED,23,Sport Lisboa e Benfica,AVS,3,0
+545913,2026-03-02T20:15:00Z,FINISHED,24,Gil Vicente FC,Sport Lisboa e Benfica,1,2
+545924,2026-03-08T18:00:00Z,FINISHED,25,Sport Lisboa e Benfica,FC Porto,2,2
+545932,2026-03-14T20:30:00Z,FINISHED,26,FC Arouca,Sport Lisboa e Benfica,1,2
+545942,2026-03-21T18:00:00Z,FINISHED,27,Sport Lisboa e Benfica,Vitória SC,3,0
+545949,2026-04-06T19:45:00Z,FINISHED,28,Casa Pia AC,Sport Lisboa e Benfica,1,1
+545960,2026-04-12T17:00:00Z,FINISHED,29,Sport Lisboa e Benfica,CD Nacional,2,0
+545965,2026-04-19T17:15:00Z,FINISHED,30,Sporting Clube de Portugal,Sport Lisboa e Benfica,1,2
+545977,2026-04-25T17:00:00Z,FINISHED,31,Sport Lisboa e Benfica,Moreirense FC,4,1
+545983,2026-05-02T17:00:00Z,FINISHED,32,FC Famalicão,Sport Lisboa e Benfica,2,2
+545996,2026-05-11T19:15:00Z,FINISHED,33,Sport Lisboa e Benfica,Sporting Clube de Braga,2,2
+546001,2026-05-16T19:30:00Z,FINISHED,34,GD Estoril Praia,Sport Lisboa e Benfica,1,3

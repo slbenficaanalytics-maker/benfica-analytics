@@ -1,13 +1,13 @@
 library(tidyverse)
 
-benfica_matches <- read_csv(
-  "data/raw/benfica_primeira_liga_2026_27.csv",
+historical_matches <- read_csv(
+  "data/raw/benfica_primeira_liga_2025_26.csv",
   show_col_types = FALSE
 )
 
-benfica_matches_clean <- benfica_matches |>
+historical_matches_clean <- historical_matches |>
   mutate(
-    season = "2026/27",
+    season = "2025/26",
     date = as.Date(utcDate),
     
     opponent = if_else(
@@ -35,10 +35,15 @@ benfica_matches_clean <- benfica_matches |>
     ),
     
     result = case_when(
-      is.na(goals_for) | is.na(goals_against) ~ NA_character_,
       goals_for > goals_against ~ "Win",
       goals_for < goals_against ~ "Loss",
       TRUE ~ "Draw"
+    ),
+    
+    points = case_when(
+      result == "Win" ~ 3,
+      result == "Draw" ~ 1,
+      result == "Loss" ~ 0
     )
   ) |>
   select(
@@ -52,13 +57,14 @@ benfica_matches_clean <- benfica_matches |>
     goals_for,
     goals_against,
     result,
+    points,
     home_team,
     away_team
   )
 
 write_csv(
-  benfica_matches_clean,
-  "data/processed/benfica_matches_2026_27.csv"
+  historical_matches_clean,
+  "data/processed/benfica_matches_2025_26.csv"
 )
 
-print(benfica_matches_clean, n = 10)
+print(historical_matches_clean, n = 10)

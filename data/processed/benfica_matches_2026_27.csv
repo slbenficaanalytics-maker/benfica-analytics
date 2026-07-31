@@ -1,35 +1,35 @@
-match_id,date,status,matchday,opponent,venue,goals_for,goals_against,result,home_team,away_team
-567262,2026-08-09,SCHEDULED,1,Académico de Viseu FC,Home,NA,NA,NA,Sport Lisboa e Benfica,Académico de Viseu FC
-567267,2026-08-16,SCHEDULED,2,Casa Pia AC,Away,NA,NA,NA,Casa Pia AC,Sport Lisboa e Benfica
-567282,2026-08-23,SCHEDULED,3,Moreirense FC,Away,NA,NA,NA,Moreirense FC,Sport Lisboa e Benfica
-567288,2026-08-30,SCHEDULED,4,GD Estoril Praia,Home,NA,NA,NA,Sport Lisboa e Benfica,GD Estoril Praia
-567293,2026-09-06,SCHEDULED,5,CS Marítimo,Away,NA,NA,NA,CS Marítimo,Sport Lisboa e Benfica
-567304,2026-09-13,SCHEDULED,6,Gil Vicente FC,Home,NA,NA,NA,Sport Lisboa e Benfica,Gil Vicente FC
-567316,2026-09-20,SCHEDULED,7,FC Porto,Away,NA,NA,NA,FC Porto,Sport Lisboa e Benfica
-567320,2026-10-11,SCHEDULED,8,Vitória SC,Home,NA,NA,NA,Sport Lisboa e Benfica,Vitória SC
-567331,2026-10-25,SCHEDULED,9,CD Santa Clara,Away,NA,NA,NA,CD Santa Clara,Sport Lisboa e Benfica
-567342,2026-11-01,SCHEDULED,10,FC Alverca,Home,NA,NA,NA,Sport Lisboa e Benfica,FC Alverca
-567355,2026-11-08,SCHEDULED,11,CF Estrela da Amadora,Away,NA,NA,NA,CF Estrela da Amadora,Sport Lisboa e Benfica
-567360,2026-11-29,SCHEDULED,12,FC Famalicão,Home,NA,NA,NA,Sport Lisboa e Benfica,FC Famalicão
-567369,2026-12-06,SCHEDULED,13,CD Nacional,Away,NA,NA,NA,CD Nacional,Sport Lisboa e Benfica
-567381,2026-12-13,SCHEDULED,14,Sporting Clube de Braga,Home,NA,NA,NA,Sport Lisboa e Benfica,Sporting Clube de Braga
-567383,2026-12-20,SCHEDULED,15,Rio Ave FC,Away,NA,NA,NA,Rio Ave FC,Sport Lisboa e Benfica
-567397,2026-12-27,SCHEDULED,16,Sporting Clube de Portugal,Home,NA,NA,NA,Sport Lisboa e Benfica,Sporting Clube de Portugal
-567406,2027-01-10,SCHEDULED,17,FC Arouca,Away,NA,NA,NA,FC Arouca,Sport Lisboa e Benfica
-567417,2027-01-17,SCHEDULED,18,Académico de Viseu FC,Away,NA,NA,NA,Académico de Viseu FC,Sport Lisboa e Benfica
-567423,2027-01-24,SCHEDULED,19,Casa Pia AC,Home,NA,NA,NA,Sport Lisboa e Benfica,Casa Pia AC
-567430,2027-01-31,SCHEDULED,20,Moreirense FC,Home,NA,NA,NA,Sport Lisboa e Benfica,Moreirense FC
-567439,2027-02-07,SCHEDULED,21,GD Estoril Praia,Away,NA,NA,NA,GD Estoril Praia,Sport Lisboa e Benfica
-567451,2027-02-14,SCHEDULED,22,CS Marítimo,Home,NA,NA,NA,Sport Lisboa e Benfica,CS Marítimo
-567458,2027-02-21,SCHEDULED,23,Gil Vicente FC,Away,NA,NA,NA,Gil Vicente FC,Sport Lisboa e Benfica
-567468,2027-02-28,SCHEDULED,24,FC Porto,Home,NA,NA,NA,Sport Lisboa e Benfica,FC Porto
-567479,2027-03-07,SCHEDULED,25,Vitória SC,Away,NA,NA,NA,Vitória SC,Sport Lisboa e Benfica
-567483,2027-03-14,SCHEDULED,26,CD Santa Clara,Home,NA,NA,NA,Sport Lisboa e Benfica,CD Santa Clara
-567494,2027-03-21,SCHEDULED,27,FC Alverca,Away,NA,NA,NA,FC Alverca,Sport Lisboa e Benfica
-567508,2027-04-04,SCHEDULED,28,CF Estrela da Amadora,Home,NA,NA,NA,Sport Lisboa e Benfica,CF Estrela da Amadora
-567510,2027-04-11,SCHEDULED,29,FC Famalicão,Away,NA,NA,NA,FC Famalicão,Sport Lisboa e Benfica
-567518,2027-04-18,SCHEDULED,30,CD Nacional,Home,NA,NA,NA,Sport Lisboa e Benfica,CD Nacional
-567532,2027-04-25,SCHEDULED,31,Sporting Clube de Braga,Away,NA,NA,NA,Sporting Clube de Braga,Sport Lisboa e Benfica
-567544,2027-05-02,SCHEDULED,32,Rio Ave FC,Home,NA,NA,NA,Sport Lisboa e Benfica,Rio Ave FC
-567552,2027-05-09,SCHEDULED,33,Sporting Clube de Portugal,Away,NA,NA,NA,Sporting Clube de Portugal,Sport Lisboa e Benfica
-567556,2027-05-16,SCHEDULED,34,FC Arouca,Home,NA,NA,NA,Sport Lisboa e Benfica,FC Arouca
+match_id,season,date,status,matchday,opponent,venue,goals_for,goals_against,result,home_team,away_team
+567262,2026/27,2026-08-09,SCHEDULED,1,Académico de Viseu FC,Home,NA,NA,NA,Sport Lisboa e Benfica,Académico de Viseu FC
+567267,2026/27,2026-08-16,SCHEDULED,2,Casa Pia AC,Away,NA,NA,NA,Casa Pia AC,Sport Lisboa e Benfica
+567282,2026/27,2026-08-23,SCHEDULED,3,Moreirense FC,Away,NA,NA,NA,Moreirense FC,Sport Lisboa e Benfica
+567288,2026/27,2026-08-30,SCHEDULED,4,GD Estoril Praia,Home,NA,NA,NA,Sport Lisboa e Benfica,GD Estoril Praia
+567293,2026/27,2026-09-06,SCHEDULED,5,CS Marítimo,Away,NA,NA,NA,CS Marítimo,Sport Lisboa e Benfica
+567304,2026/27,2026-09-13,SCHEDULED,6,Gil Vicente FC,Home,NA,NA,NA,Sport Lisboa e Benfica,Gil Vicente FC
+567316,2026/27,2026-09-20,SCHEDULED,7,FC Porto,Away,NA,NA,NA,FC Porto,Sport Lisboa e Benfica
+567320,2026/27,2026-10-11,SCHEDULED,8,Vitória SC,Home,NA,NA,NA,Sport Lisboa e Benfica,Vitória SC
+567331,2026/27,2026-10-25,SCHEDULED,9,CD Santa Clara,Away,NA,NA,NA,CD Santa Clara,Sport Lisboa e Benfica
+567342,2026/27,2026-11-01,SCHEDULED,10,FC Alverca,Home,NA,NA,NA,Sport Lisboa e Benfica,FC Alverca
+567355,2026/27,2026-11-08,SCHEDULED,11,CF Estrela da Amadora,Away,NA,NA,NA,CF Estrela da Amadora,Sport Lisboa e Benfica
+567360,2026/27,2026-11-29,SCHEDULED,12,FC Famalicão,Home,NA,NA,NA,Sport Lisboa e Benfica,FC Famalicão
+567369,2026/27,2026-12-06,SCHEDULED,13,CD Nacional,Away,NA,NA,NA,CD Nacional,Sport Lisboa e Benfica
+567381,2026/27,2026-12-13,SCHEDULED,14,Sporting Clube de Braga,Home,NA,NA,NA,Sport Lisboa e Benfica,Sporting Clube de Braga
+567383,2026/27,2026-12-20,SCHEDULED,15,Rio Ave FC,Away,NA,NA,NA,Rio Ave FC,Sport Lisboa e Benfica
+567397,2026/27,2026-12-27,SCHEDULED,16,Sporting Clube de Portugal,Home,NA,NA,NA,Sport Lisboa e Benfica,Sporting Clube de Portugal
+567406,2026/27,2027-01-10,SCHEDULED,17,FC Arouca,Away,NA,NA,NA,FC Arouca,Sport Lisboa e Benfica
+567417,2026/27,2027-01-17,SCHEDULED,18,Académico de Viseu FC,Away,NA,NA,NA,Académico de Viseu FC,Sport Lisboa e Benfica
+567423,2026/27,2027-01-24,SCHEDULED,19,Casa Pia AC,Home,NA,NA,NA,Sport Lisboa e Benfica,Casa Pia AC
+567430,2026/27,2027-01-31,SCHEDULED,20,Moreirense FC,Home,NA,NA,NA,Sport Lisboa e Benfica,Moreirense FC
+567439,2026/27,2027-02-07,SCHEDULED,21,GD Estoril Praia,Away,NA,NA,NA,GD Estoril Praia,Sport Lisboa e Benfica
+567451,2026/27,2027-02-14,SCHEDULED,22,CS Marítimo,Home,NA,NA,NA,Sport Lisboa e Benfica,CS Marítimo
+567458,2026/27,2027-02-21,SCHEDULED,23,Gil Vicente FC,Away,NA,NA,NA,Gil Vicente FC,Sport Lisboa e Benfica
+567468,2026/27,2027-02-28,SCHEDULED,24,FC Porto,Home,NA,NA,NA,Sport Lisboa e Benfica,FC Porto
+567479,2026/27,2027-03-07,SCHEDULED,25,Vitória SC,Away,NA,NA,NA,Vitória SC,Sport Lisboa e Benfica
+567483,2026/27,2027-03-14,SCHEDULED,26,CD Santa Clara,Home,NA,NA,NA,Sport Lisboa e Benfica,CD Santa Clara
+567494,2026/27,2027-03-21,SCHEDULED,27,FC Alverca,Away,NA,NA,NA,FC Alverca,Sport Lisboa e Benfica
+567508,2026/27,2027-04-04,SCHEDULED,28,CF Estrela da Amadora,Home,NA,NA,NA,Sport Lisboa e Benfica,CF Estrela da Amadora
+567510,2026/27,2027-04-11,SCHEDULED,29,FC Famalicão,Away,NA,NA,NA,FC Famalicão,Sport Lisboa e Benfica
+567518,2026/27,2027-04-18,SCHEDULED,30,CD Nacional,Home,NA,NA,NA,Sport Lisboa e Benfica,CD Nacional
+567532,2026/27,2027-04-25,SCHEDULED,31,Sporting Clube de Braga,Away,NA,NA,NA,Sporting Clube de Braga,Sport Lisboa e Benfica
+567544,2026/27,2027-05-02,SCHEDULED,32,Rio Ave FC,Home,NA,NA,NA,Sport Lisboa e Benfica,Rio Ave FC
+567552,2026/27,2027-05-09,SCHEDULED,33,Sporting Clube de Portugal,Away,NA,NA,NA,Sporting Clube de Portugal,Sport Lisboa e Benfica
+567556,2026/27,2027-05-16,SCHEDULED,34,FC Arouca,Home,NA,NA,NA,Sport Lisboa e Benfica,FC Arouca
