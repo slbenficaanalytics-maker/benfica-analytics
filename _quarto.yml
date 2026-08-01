@@ -8,8 +8,6 @@ website:
     left:
       - href: index.qmd
         text: Início
-      - href: reports/teste.qmd
-        text: Teste
 
 format:
   html:

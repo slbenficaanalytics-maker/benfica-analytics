@@ -8,28 +8,77 @@ execute:
   message: false
 ---
 
+```{r}
+library(tidyverse)
+library(gt)
+```
+
 ## Projeto
 
 Este projeto reúne dados, métricas próprias e modelos estatísticos experimentais sobre o desempenho do SL Benfica.
 
+## Época 2025/26
+
+```{r}
+historical <- read_csv(
+  "data/processed/benfica_matches_all_seasons.csv",
+  show_col_types = FALSE
+)
+
+summary_2025 <- historical |>
+  filter(
+    season == "2025/26",
+    status == "FINISHED"
+  ) |>
+  summarise(
+    Jogos = n(),
+    Vitórias = sum(result == "Win"),
+    Empates = sum(result == "Draw"),
+    Derrotas = sum(result == "Loss"),
+    `Golos marcados` = sum(goals_for),
+    `Golos sofridos` = sum(goals_against),
+    Pontos = sum(points),
+    `Pontos por jogo` = round(Pontos / Jogos, 2)
+  )
+
+summary_2025 |>
+  gt() |>
+  tab_header(
+    title = "Resumo da época 2025/26"
+  )
+```
+
 ## Calendário da Primeira Liga
 
 ```{r}
-library(tidyverse)
 
 matches <- read_csv(
   "data/processed/benfica_matches_2026_27.csv",
   show_col_types = FALSE
 )
 
-matches |>
+calendar_table <- matches |>
   select(
     Data = date,
     Jornada = matchday,
     Adversário = opponent,
     Local = venue
   ) |>
-  slice_head(n = 10)
+  slice_head(n = 10) |>
+  mutate(
+    Local = recode(
+      Local,
+      "Home" = "Casa",
+      "Away" = "Fora"
+    )
+  )
+
+calendar_table |>
+  gt() |>
+  fmt_date(
+    columns = Data,
+    date_style = 4
+  )
 ```
 
 ## Estado atual

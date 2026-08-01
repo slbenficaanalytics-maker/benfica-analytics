@@ -18,7 +18,7 @@
     "href": "index.html#calendário-da-primeira-liga",
     "title": "Benfica Analytics",
     "section": "Calendário da Primeira Liga",
-    "text": "Calendário da Primeira Liga\n\n\n# A tibble: 10 × 4\n   Data       Jornada Adversário            Local\n   &lt;date&gt;       &lt;dbl&gt; &lt;chr&gt;                 &lt;chr&gt;\n 1 2026-08-09       1 Académico de Viseu FC Home \n 2 2026-08-16       2 Casa Pia AC           Away \n 3 2026-08-23       3 Moreirense FC         Away \n 4 2026-08-30       4 GD Estoril Praia      Home \n 5 2026-09-06       5 CS Marítimo           Away \n 6 2026-09-13       6 Gil Vicente FC        Home \n 7 2026-09-20       7 FC Porto              Away \n 8 2026-10-11       8 Vitória SC            Home \n 9 2026-10-25       9 CD Santa Clara        Away \n10 2026-11-01      10 FC Alverca            Home"
+    "text": "Calendário da Primeira Liga\n\n\n\n\n\n\n\n\nData\nJornada\nAdversário\nLocal\n\n\n\n\nSunday 9 August 2026\n1\nAcadémico de Viseu FC\nCasa\n\n\nSunday 16 August 2026\n2\nCasa Pia AC\nFora\n\n\nSunday 23 August 2026\n3\nMoreirense FC\nFora\n\n\nSunday 30 August 2026\n4\nGD Estoril Praia\nCasa\n\n\nSunday 6 September 2026\n5\nCS Marítimo\nFora\n\n\nSunday 13 September 2026\n6\nGil Vicente FC\nCasa\n\n\nSunday 20 September 2026\n7\nFC Porto\nFora\n\n\nSunday 11 October 2026\n8\nVitória SC\nCasa\n\n\nSunday 25 October 2026\n9\nCD Santa Clara\nFora\n\n\nSunday 1 November 2026\n10\nFC Alverca\nCasa"
   },
   {
     "objectID": "index.html#estado-atual",
@@ -40,5 +40,12 @@
     "title": "Benfica Analytics - Teste",
     "section": "",
     "text": "Esta é a primeira página experimental do projeto.\n\n\n# A tibble: 10 × 4\n   date       matchday opponent              venue\n   &lt;date&gt;        &lt;dbl&gt; &lt;chr&gt;                 &lt;chr&gt;\n 1 2026-08-09        1 Académico de Viseu FC Home \n 2 2026-08-16        2 Casa Pia AC           Away \n 3 2026-08-23        3 Moreirense FC         Away \n 4 2026-08-30        4 GD Estoril Praia      Home \n 5 2026-09-06        5 CS Marítimo           Away \n 6 2026-09-13        6 Gil Vicente FC        Home \n 7 2026-09-20        7 FC Porto              Away \n 8 2026-10-11        8 Vitória SC            Home \n 9 2026-10-25        9 CD Santa Clara        Away \n10 2026-11-01       10 FC Alverca            Home"
+  },
+  {
+    "objectID": "index.html#época-202526",
+    "href": "index.html#época-202526",
+    "title": "Benfica Analytics",
+    "section": "Época 2025/26",
+    "text": "Época 2025/26\n\n\n\n\n\n\n\n\nResumo da época 2025/26\n\n\nJogos\nVitórias\nEmpates\nDerrotas\nGolos marcados\nGolos sofridos\nPontos\nPontos por jogo\n\n\n\n\n34\n23\n11\n0\n74\n25\n80\n2.35"
   }
 ]
