@@ -1,96 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Benfica Analytics",
-    "section": "",
-    "text": "Este projeto reúne dados, métricas próprias e modelos estatísticos experimentais sobre o desempenho do SL Benfica."
-  },
-  {
-    "objectID": "index.html#projeto",
-    "href": "index.html#projeto",
-    "title": "Benfica Analytics",
-    "section": "",
-    "text": "Este projeto reúne dados, métricas próprias e modelos estatísticos experimentais sobre o desempenho do SL Benfica."
-  },
-  {
-    "objectID": "index.html#calendário-da-primeira-liga",
-    "href": "index.html#calendário-da-primeira-liga",
-    "title": "Benfica Analytics",
-    "section": "Calendário da Primeira Liga",
-    "text": "Calendário da Primeira Liga\n\n\n\n\n\n\n\n\nData\nJornada\nAdversário\nLocal\n\n\n\n\n09/08/2026\n1\nAcadémico de Viseu FC\nCasa\n\n\n16/08/2026\n2\nCasa Pia AC\nFora\n\n\n23/08/2026\n3\nMoreirense FC\nFora\n\n\n30/08/2026\n4\nGD Estoril Praia\nCasa\n\n\n06/09/2026\n5\nCS Marítimo\nFora\n\n\n13/09/2026\n6\nGil Vicente FC\nCasa\n\n\n20/09/2026\n7\nFC Porto\nFora\n\n\n11/10/2026\n8\nVitória SC\nCasa\n\n\n25/10/2026\n9\nCD Santa Clara\nFora\n\n\n01/11/2026\n10\nFC Alverca\nCasa"
-  },
-  {
-    "objectID": "index.html#estado-atual",
-    "href": "index.html#estado-atual",
-    "title": "Benfica Analytics",
-    "section": "Estado atual",
-    "text": "Estado atual\nA época ainda não começou. Os resultados e indicadores serão atualizados depois de cada jogo."
-  },
-  {
-    "objectID": "reports:teste.html",
-    "href": "reports:teste.html",
-    "title": "Benfica Analytics - Teste",
-    "section": "",
-    "text": "Esta é a primeira página experimental do projeto.\n\n\n# A tibble: 10 × 4\n   date       matchday opponent              venue\n   &lt;date&gt;        &lt;dbl&gt; &lt;chr&gt;                 &lt;chr&gt;\n 1 2026-08-09        1 Académico de Viseu FC Home \n 2 2026-08-16        2 Casa Pia AC           Away \n 3 2026-08-23        3 Moreirense FC         Away \n 4 2026-08-30        4 GD Estoril Praia      Home \n 5 2026-09-06        5 CS Marítimo           Away \n 6 2026-09-13        6 Gil Vicente FC        Home \n 7 2026-09-20        7 FC Porto              Away \n 8 2026-10-11        8 Vitória SC            Home \n 9 2026-10-25        9 CD Santa Clara        Away \n10 2026-11-01       10 FC Alverca            Home"
-  },
-  {
-    "objectID": "reports:teste.html#calendário-da-primeira-liga",
-    "href": "reports:teste.html#calendário-da-primeira-liga",
-    "title": "Benfica Analytics - Teste",
-    "section": "",
-    "text": "Esta é a primeira página experimental do projeto.\n\n\n# A tibble: 10 × 4\n   date       matchday opponent              venue\n   &lt;date&gt;        &lt;dbl&gt; &lt;chr&gt;                 &lt;chr&gt;\n 1 2026-08-09        1 Académico de Viseu FC Home \n 2 2026-08-16        2 Casa Pia AC           Away \n 3 2026-08-23        3 Moreirense FC         Away \n 4 2026-08-30        4 GD Estoril Praia      Home \n 5 2026-09-06        5 CS Marítimo           Away \n 6 2026-09-13        6 Gil Vicente FC        Home \n 7 2026-09-20        7 FC Porto              Away \n 8 2026-10-11        8 Vitória SC            Home \n 9 2026-10-25        9 CD Santa Clara        Away \n10 2026-11-01       10 FC Alverca            Home"
-  },
-  {
-    "objectID": "index.html#época-202526",
-    "href": "index.html#época-202526",
-    "title": "Benfica Analytics",
-    "section": "Época 2025/26",
-    "text": "Época 2025/26\n\n\n\n\n\n\n\n\nResumo da época 2025/26\n\n\nJogos\nVitórias\nEmpates\nDerrotas\nGolos marcados\nGolos sofridos\nPontos\nPontos por jogo\n\n\n\n\n34\n23\n11\n0\n74\n25\n80\n2.35"
-  },
-  {
-    "objectID": "index.html#integração-dos-reforços",
-    "href": "index.html#integração-dos-reforços",
-    "title": "Benfica Analytics",
-    "section": "Integração dos reforços",
-    "text": "Integração dos reforços\n\n\n\n\n\n\n\n\nReforços de 2026/27\n\n\nTempo decorrido desde a chegada ao Benfica\n\n\nJogador\nPosição\nData de chegada\nClube anterior\nDias no clube\n\n\n\n\nClément Lenglet\nDefesa\n30/06/2026\nAtlético de Madrid\n32\n\n\nGabriel Índio\nDefesa\n28/07/2026\nAthletic MG\n4\n\n\nJakub Kamiński\nAtaque\n07/07/2026\nFC Köln\n25"
-  },
-  {
-    "objectID": "data/API_LIMITATIONS.html",
-    "href": "data/API_LIMITATIONS.html",
-    "title": "Limitações da football-data.org",
-    "section": "",
-    "text": "calendário\nresultados\nclassificação\nequipas\ncompetição\njornada\nlocal\nárbitros\n\n\n\n\n\nonze inicial\nbanco\nsubstituições\ncartões\nmarcadores detalhados\nestatísticas por jogador\nremates\nposse\nxG\neventos minuto a minuto\n\n\n\n\nA API será usada como fonte estrutural para calendário e resultados.\nAs métricas avançadas exigirão outra fonte ou introdução manual."
-  },
-  {
-    "objectID": "data/API_LIMITATIONS.html#dados-disponíveis",
-    "href": "data/API_LIMITATIONS.html#dados-disponíveis",
-    "title": "Limitações da football-data.org",
-    "section": "",
-    "text": "calendário\nresultados\nclassificação\nequipas\ncompetição\njornada\nlocal\nárbitros"
-  },
-  {
-    "objectID": "data/API_LIMITATIONS.html#dados-não-disponíveis-no-plano-atual",
-    "href": "data/API_LIMITATIONS.html#dados-não-disponíveis-no-plano-atual",
-    "title": "Limitações da football-data.org",
-    "section": "",
-    "text": "onze inicial\nbanco\nsubstituições\ncartões\nmarcadores detalhados\nestatísticas por jogador\nremates\nposse\nxG\neventos minuto a minuto"
-  },
-  {
-    "objectID": "data/API_LIMITATIONS.html#consequência",
-    "href": "data/API_LIMITATIONS.html#consequência",
-    "title": "Limitações da football-data.org",
-    "section": "",
-    "text": "A API será usada como fonte estrutural para calendário e resultados.\nAs métricas avançadas exigirão outra fonte ou introdução manual."
-  },
-  {
-    "objectID": "index.html#controlo-de-remates",
-    "href": "index.html#controlo-de-remates",
-    "title": "Benfica Analytics",
-    "section": "Controlo de remates",
-    "text": "Controlo de remates\nO índice combina a percentagem dos remates totais e dos remates enquadrados pertencentes ao Benfica.\n\n50 representa equilíbrio;\nacima de 50, maior controlo do Benfica;\nabaixo de 50, maior controlo do adversário.\n\n\n\n\n\n\n\n\n\nÍndice experimental de controlo de remates\n\n\nVersão 0.1 — não representa ainda uma avaliação global do desempenho\n\n\nData\nAdversário\nResultado\nRemates Benfica\nRemates adversário\nRemates enquadrados Benfica\nRemates enquadrados adversário\nÍndice de controlo\n\n\n\n\n23/07/2026\nch St. Gallen\n1-2\n14\n17\n4\n6\n42.6\n\n\n30/07/2026\nch St. Gallen\n5-0\n25\n11\n10\n3\n73.2"
-  },
-  {
     "objectID": "data/manual/MATCH_INPUT_DICTIONARY.html",
     "href": "data/manual/MATCH_INPUT_DICTIONARY.html",
     "title": "Dicionário da ficha pós-jogo",
@@ -215,5 +124,103 @@
     "title": "Plano de fontes e métricas",
     "section": "",
     "text": "Cada indicador deverá incluir:\n\ndefinição\nfórmula\nfonte dos dados\npressupostos\nlimitações\nversão do modelo"
+  },
+  {
+    "objectID": "reports:teste.html",
+    "href": "reports:teste.html",
+    "title": "Benfica Analytics - Teste",
+    "section": "",
+    "text": "Esta é a primeira página experimental do projeto.\n\n\n# A tibble: 10 × 4\n   date       matchday opponent              venue\n   &lt;date&gt;        &lt;dbl&gt; &lt;chr&gt;                 &lt;chr&gt;\n 1 2026-08-09        1 Académico de Viseu FC Home \n 2 2026-08-16        2 Casa Pia AC           Away \n 3 2026-08-23        3 Moreirense FC         Away \n 4 2026-08-30        4 GD Estoril Praia      Home \n 5 2026-09-06        5 CS Marítimo           Away \n 6 2026-09-13        6 Gil Vicente FC        Home \n 7 2026-09-20        7 FC Porto              Away \n 8 2026-10-11        8 Vitória SC            Home \n 9 2026-10-25        9 CD Santa Clara        Away \n10 2026-11-01       10 FC Alverca            Home"
+  },
+  {
+    "objectID": "reports:teste.html#calendário-da-primeira-liga",
+    "href": "reports:teste.html#calendário-da-primeira-liga",
+    "title": "Benfica Analytics - Teste",
+    "section": "",
+    "text": "Esta é a primeira página experimental do projeto.\n\n\n# A tibble: 10 × 4\n   date       matchday opponent              venue\n   &lt;date&gt;        &lt;dbl&gt; &lt;chr&gt;                 &lt;chr&gt;\n 1 2026-08-09        1 Académico de Viseu FC Home \n 2 2026-08-16        2 Casa Pia AC           Away \n 3 2026-08-23        3 Moreirense FC         Away \n 4 2026-08-30        4 GD Estoril Praia      Home \n 5 2026-09-06        5 CS Marítimo           Away \n 6 2026-09-13        6 Gil Vicente FC        Home \n 7 2026-09-20        7 FC Porto              Away \n 8 2026-10-11        8 Vitória SC            Home \n 9 2026-10-25        9 CD Santa Clara        Away \n10 2026-11-01       10 FC Alverca            Home"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Benfica Analytics",
+    "section": "",
+    "text": "Este projeto reúne dados, métricas próprias e modelos estatísticos experimentais sobre o desempenho do SL Benfica."
+  },
+  {
+    "objectID": "index.html#projeto",
+    "href": "index.html#projeto",
+    "title": "Benfica Analytics",
+    "section": "",
+    "text": "Este projeto reúne dados, métricas próprias e modelos estatísticos experimentais sobre o desempenho do SL Benfica."
+  },
+  {
+    "objectID": "index.html#época-202526",
+    "href": "index.html#época-202526",
+    "title": "Benfica Analytics",
+    "section": "Época 2025/26",
+    "text": "Época 2025/26\n\n\n\n\n\n\n\n\nResumo da época 2025/26\n\n\nJogos\nVitórias\nEmpates\nDerrotas\nGolos marcados\nGolos sofridos\nPontos\nPontos por jogo\n\n\n\n\n34\n23\n11\n0\n74\n25\n80\n2.35"
+  },
+  {
+    "objectID": "index.html#controlo-de-remates",
+    "href": "index.html#controlo-de-remates",
+    "title": "Benfica Analytics",
+    "section": "Controlo de remates",
+    "text": "Controlo de remates\nO índice combina a percentagem dos remates totais e dos remates enquadrados pertencentes ao Benfica.\n\n50 representa equilíbrio;\nacima de 50, maior controlo do Benfica;\nabaixo de 50, maior controlo do adversário.\n\n\n\n\n\n\n\n\n\nÍndice experimental de controlo de remates\n\n\nVersão 0.1 — não representa ainda uma avaliação global do desempenho\n\n\nData\nAdversário\nResultado\nRemates Benfica\nRemates adversário\nRemates enquadrados Benfica\nRemates enquadrados adversário\nÍndice de controlo\n\n\n\n\n23/07/2026\nch St. Gallen\n1-2\n14\n17\n4\n6\n42.6\n\n\n30/07/2026\nch St. Gallen\n5-0\n25\n11\n10\n3\n73.2"
+  },
+  {
+    "objectID": "index.html#exposição-defensiva",
+    "href": "index.html#exposição-defensiva",
+    "title": "Benfica Analytics",
+    "section": "Exposição defensiva",
+    "text": "Exposição defensiva\nEsta métrica mostra que proporção dos remates adversários chegou enquadrada e quanto o Benfica dependeu das defesas do guarda-redes.\n\nexposição alta não significa necessariamente muitos remates concedidos;\npode significar que poucos remates chegaram em boas condições;\na dependência do guarda-redes deve ser interpretada juntamente com o número de remates enquadrados.\n\n\n\n\n\n\n\n\n\nExposição defensiva e dependência do guarda-redes\n\n\nVersão 0.1 — análise experimental baseada em remates enquadrados\n\n\nData\nAdversário\nResultado\nRemates sofridos\nRemates enquadrados sofridos\nDefesas\nPercentagem de defesas\nÍndice de exposição\nDependência do guarda-redes\n\n\n\n\n23/07/2026\nch St. Gallen\n1-2\n17\n6\n4\n66.7%\n35.3%\n66.7%\n\n\n30/07/2026\nch St. Gallen\n5-0\n11\n3\n2\n100%\n27.3%\n66.7%"
+  },
+  {
+    "objectID": "index.html#integração-dos-reforços",
+    "href": "index.html#integração-dos-reforços",
+    "title": "Benfica Analytics",
+    "section": "Integração dos reforços",
+    "text": "Integração dos reforços\n\n\n\n\n\n\n\n\nReforços de 2026/27\n\n\nTempo decorrido desde a chegada ao Benfica\n\n\nJogador\nPosição\nData de chegada\nClube anterior\nDias no clube\n\n\n\n\nClément Lenglet\nDefesa\n30/06/2026\nAtlético de Madrid\n32\n\n\nGabriel Índio\nDefesa\n28/07/2026\nAthletic MG\n4\n\n\nJakub Kamiński\nAtaque\n07/07/2026\nFC Köln\n25"
+  },
+  {
+    "objectID": "index.html#calendário-da-primeira-liga",
+    "href": "index.html#calendário-da-primeira-liga",
+    "title": "Benfica Analytics",
+    "section": "Calendário da Primeira Liga",
+    "text": "Calendário da Primeira Liga\n\n\n\n\n\n\n\n\nData\nJornada\nAdversário\nLocal\n\n\n\n\n09/08/2026\n1\nAcadémico de Viseu FC\nCasa\n\n\n16/08/2026\n2\nCasa Pia AC\nFora\n\n\n23/08/2026\n3\nMoreirense FC\nFora\n\n\n30/08/2026\n4\nGD Estoril Praia\nCasa\n\n\n06/09/2026\n5\nCS Marítimo\nFora\n\n\n13/09/2026\n6\nGil Vicente FC\nCasa\n\n\n20/09/2026\n7\nFC Porto\nFora\n\n\n11/10/2026\n8\nVitória SC\nCasa\n\n\n25/10/2026\n9\nCD Santa Clara\nFora\n\n\n01/11/2026\n10\nFC Alverca\nCasa"
+  },
+  {
+    "objectID": "index.html#estado-atual",
+    "href": "index.html#estado-atual",
+    "title": "Benfica Analytics",
+    "section": "Estado atual",
+    "text": "Estado atual\nA época ainda não começou. Os resultados e indicadores serão atualizados depois de cada jogo."
+  },
+  {
+    "objectID": "data/API_LIMITATIONS.html",
+    "href": "data/API_LIMITATIONS.html",
+    "title": "Limitações da football-data.org",
+    "section": "",
+    "text": "calendário\nresultados\nclassificação\nequipas\ncompetição\njornada\nlocal\nárbitros\n\n\n\n\n\nonze inicial\nbanco\nsubstituições\ncartões\nmarcadores detalhados\nestatísticas por jogador\nremates\nposse\nxG\neventos minuto a minuto\n\n\n\n\nA API será usada como fonte estrutural para calendário e resultados.\nAs métricas avançadas exigirão outra fonte ou introdução manual."
+  },
+  {
+    "objectID": "data/API_LIMITATIONS.html#dados-disponíveis",
+    "href": "data/API_LIMITATIONS.html#dados-disponíveis",
+    "title": "Limitações da football-data.org",
+    "section": "",
+    "text": "calendário\nresultados\nclassificação\nequipas\ncompetição\njornada\nlocal\nárbitros"
+  },
+  {
+    "objectID": "data/API_LIMITATIONS.html#dados-não-disponíveis-no-plano-atual",
+    "href": "data/API_LIMITATIONS.html#dados-não-disponíveis-no-plano-atual",
+    "title": "Limitações da football-data.org",
+    "section": "",
+    "text": "onze inicial\nbanco\nsubstituições\ncartões\nmarcadores detalhados\nestatísticas por jogador\nremates\nposse\nxG\neventos minuto a minuto"
+  },
+  {
+    "objectID": "data/API_LIMITATIONS.html#consequência",
+    "href": "data/API_LIMITATIONS.html#consequência",
+    "title": "Limitações da football-data.org",
+    "section": "",
+    "text": "A API será usada como fonte estrutural para calendário e resultados.\nAs métricas avançadas exigirão outra fonte ou introdução manual."
   }
 ]

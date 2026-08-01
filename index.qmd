@@ -82,6 +82,50 @@ shot_control_table |>
   )
 ```
 
+## Exposição defensiva
+
+Esta métrica mostra que proporção dos remates adversários chegou enquadrada e quanto o Benfica dependeu das defesas do guarda-redes.
+
+- exposição alta não significa necessariamente muitos remates concedidos;
+- pode significar que poucos remates chegaram em boas condições;
+- a dependência do guarda-redes deve ser interpretada juntamente com o número de remates enquadrados.
+
+```{r}
+defensive_exposure <- read_csv(
+  "data/fbref/processed/benfica_2026_27_defensive_exposure.csv",
+  show_col_types = FALSE
+)
+
+defensive_exposure_table <- defensive_exposure |>
+  transmute(
+    Data = format(as.Date(date), "%d/%m/%Y"),
+    Adversário = opponent,
+    Resultado = paste0(goals_for, "-", goals_against),
+    `Remates sofridos` = shots_against,
+    `Remates enquadrados sofridos` = shots_on_target_against,
+    Defesas = saves,
+    `Percentagem de defesas` = paste0(
+      round(save_percentage, 1),
+      "%"
+    ),
+    `Índice de exposição` = paste0(
+      round(exposure_index, 1),
+      "%"
+    ),
+    `Dependência do guarda-redes` = paste0(
+      round(100 * goalkeeper_dependency, 1),
+      "%"
+    )
+  )
+
+defensive_exposure_table |>
+  gt() |>
+  tab_header(
+    title = "Exposição defensiva e dependência do guarda-redes",
+    subtitle = "Versão 0.1 — análise experimental baseada em remates enquadrados"
+  )
+```
+
 ## Integração dos reforços
 
 ```{r}

@@ -1,0 +1,9 @@
+source("R/import_fbref_shooting.R")
+source("R/import_fbref_shooting_against.R")
+source("R/combine_fbref_shooting.R")
+source("R/import_fbref_goalkeeping.R")
+source("R/combine_match_performance.R")
+source("R/calculate_shot_control.R")
+source("R/calculate_defensive_exposure.R")
+
+message("Dados e métricas do FBref atualizados.")
