@@ -48,6 +48,75 @@ summary_2025 |>
   )
 ```
 
+## Controlo de remates
+
+O índice combina a percentagem dos remates totais e dos remates enquadrados pertencentes ao Benfica.
+
+- **50** representa equilíbrio;
+- acima de **50**, maior controlo do Benfica;
+- abaixo de **50**, maior controlo do adversário.
+
+```{r}
+shot_control <- read_csv(
+  "data/fbref/processed/benfica_2026_27_shot_control.csv",
+  show_col_types = FALSE
+)
+
+shot_control_table <- shot_control |>
+  transmute(
+    Data = format(as.Date(date), "%d/%m/%Y"),
+    Adversário = opponent,
+    Resultado = paste0(goals_for, "-", goals_against),
+    `Remates Benfica` = shots,
+    `Remates adversário` = shots_against,
+    `Remates enquadrados Benfica` = shots_on_target,
+    `Remates enquadrados adversário` = shots_on_target_against,
+    `Índice de controlo` = round(shot_control_index, 1)
+  )
+
+shot_control_table |>
+  gt() |>
+  tab_header(
+    title = "Índice experimental de controlo de remates",
+    subtitle = "Versão 0.1 — não representa ainda uma avaliação global do desempenho"
+  )
+```
+
+## Integração dos reforços
+
+```{r}
+integration <- read_csv(
+  "data/processed/player_integration.csv",
+  show_col_types = FALSE
+)
+
+integration_table <- integration |>
+  mutate(
+    api_position = recode(
+      api_position,
+      "Goalkeeper" = "Guarda-redes",
+      "Defence" = "Defesa",
+      "Midfield" = "Meio-campo",
+      "Offence" = "Ataque"
+    ),
+    arrival_date = as.Date(arrival_date)
+  ) |>
+  transmute(
+    Jogador = player_name,
+    Posição = api_position,
+    `Data de chegada` = format(arrival_date, "%d/%m/%Y"),
+    `Clube anterior` = previous_club,
+    `Dias no clube` = days_since_arrival
+  )
+
+integration_table |>
+  gt() |>
+  tab_header(
+    title = "Reforços de 2026/27",
+    subtitle = "Tempo decorrido desde a chegada ao Benfica"
+  )
+```
+
 ## Calendário da Primeira Liga
 
 ```{r}
@@ -66,6 +135,7 @@ calendar_table <- matches |>
   ) |>
   slice_head(n = 10) |>
   mutate(
+    Data = format(as.Date(Data), "%d/%m/%Y"),
     Local = recode(
       Local,
       "Home" = "Casa",
@@ -74,11 +144,7 @@ calendar_table <- matches |>
   )
 
 calendar_table |>
-  gt() |>
-  fmt_date(
-    columns = Data,
-    date_style = 4
-  )
+  gt()
 ```
 
 ## Estado atual

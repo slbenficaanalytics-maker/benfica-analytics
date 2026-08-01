@@ -18,7 +18,7 @@
     "href": "index.html#calendário-da-primeira-liga",
     "title": "Benfica Analytics",
     "section": "Calendário da Primeira Liga",
-    "text": "Calendário da Primeira Liga\n\n\n\n\n\n\n\n\nData\nJornada\nAdversário\nLocal\n\n\n\n\nSunday 9 August 2026\n1\nAcadémico de Viseu FC\nCasa\n\n\nSunday 16 August 2026\n2\nCasa Pia AC\nFora\n\n\nSunday 23 August 2026\n3\nMoreirense FC\nFora\n\n\nSunday 30 August 2026\n4\nGD Estoril Praia\nCasa\n\n\nSunday 6 September 2026\n5\nCS Marítimo\nFora\n\n\nSunday 13 September 2026\n6\nGil Vicente FC\nCasa\n\n\nSunday 20 September 2026\n7\nFC Porto\nFora\n\n\nSunday 11 October 2026\n8\nVitória SC\nCasa\n\n\nSunday 25 October 2026\n9\nCD Santa Clara\nFora\n\n\nSunday 1 November 2026\n10\nFC Alverca\nCasa"
+    "text": "Calendário da Primeira Liga\n\n\n\n\n\n\n\n\nData\nJornada\nAdversário\nLocal\n\n\n\n\n09/08/2026\n1\nAcadémico de Viseu FC\nCasa\n\n\n16/08/2026\n2\nCasa Pia AC\nFora\n\n\n23/08/2026\n3\nMoreirense FC\nFora\n\n\n30/08/2026\n4\nGD Estoril Praia\nCasa\n\n\n06/09/2026\n5\nCS Marítimo\nFora\n\n\n13/09/2026\n6\nGil Vicente FC\nCasa\n\n\n20/09/2026\n7\nFC Porto\nFora\n\n\n11/10/2026\n8\nVitória SC\nCasa\n\n\n25/10/2026\n9\nCD Santa Clara\nFora\n\n\n01/11/2026\n10\nFC Alverca\nCasa"
   },
   {
     "objectID": "index.html#estado-atual",
@@ -47,5 +47,173 @@
     "title": "Benfica Analytics",
     "section": "Época 2025/26",
     "text": "Época 2025/26\n\n\n\n\n\n\n\n\nResumo da época 2025/26\n\n\nJogos\nVitórias\nEmpates\nDerrotas\nGolos marcados\nGolos sofridos\nPontos\nPontos por jogo\n\n\n\n\n34\n23\n11\n0\n74\n25\n80\n2.35"
+  },
+  {
+    "objectID": "index.html#integração-dos-reforços",
+    "href": "index.html#integração-dos-reforços",
+    "title": "Benfica Analytics",
+    "section": "Integração dos reforços",
+    "text": "Integração dos reforços\n\n\n\n\n\n\n\n\nReforços de 2026/27\n\n\nTempo decorrido desde a chegada ao Benfica\n\n\nJogador\nPosição\nData de chegada\nClube anterior\nDias no clube\n\n\n\n\nClément Lenglet\nDefesa\n30/06/2026\nAtlético de Madrid\n32\n\n\nGabriel Índio\nDefesa\n28/07/2026\nAthletic MG\n4\n\n\nJakub Kamiński\nAtaque\n07/07/2026\nFC Köln\n25"
+  },
+  {
+    "objectID": "data/API_LIMITATIONS.html",
+    "href": "data/API_LIMITATIONS.html",
+    "title": "Limitações da football-data.org",
+    "section": "",
+    "text": "calendário\nresultados\nclassificação\nequipas\ncompetição\njornada\nlocal\nárbitros\n\n\n\n\n\nonze inicial\nbanco\nsubstituições\ncartões\nmarcadores detalhados\nestatísticas por jogador\nremates\nposse\nxG\neventos minuto a minuto\n\n\n\n\nA API será usada como fonte estrutural para calendário e resultados.\nAs métricas avançadas exigirão outra fonte ou introdução manual."
+  },
+  {
+    "objectID": "data/API_LIMITATIONS.html#dados-disponíveis",
+    "href": "data/API_LIMITATIONS.html#dados-disponíveis",
+    "title": "Limitações da football-data.org",
+    "section": "",
+    "text": "calendário\nresultados\nclassificação\nequipas\ncompetição\njornada\nlocal\nárbitros"
+  },
+  {
+    "objectID": "data/API_LIMITATIONS.html#dados-não-disponíveis-no-plano-atual",
+    "href": "data/API_LIMITATIONS.html#dados-não-disponíveis-no-plano-atual",
+    "title": "Limitações da football-data.org",
+    "section": "",
+    "text": "onze inicial\nbanco\nsubstituições\ncartões\nmarcadores detalhados\nestatísticas por jogador\nremates\nposse\nxG\neventos minuto a minuto"
+  },
+  {
+    "objectID": "data/API_LIMITATIONS.html#consequência",
+    "href": "data/API_LIMITATIONS.html#consequência",
+    "title": "Limitações da football-data.org",
+    "section": "",
+    "text": "A API será usada como fonte estrutural para calendário e resultados.\nAs métricas avançadas exigirão outra fonte ou introdução manual."
+  },
+  {
+    "objectID": "index.html#controlo-de-remates",
+    "href": "index.html#controlo-de-remates",
+    "title": "Benfica Analytics",
+    "section": "Controlo de remates",
+    "text": "Controlo de remates\nO índice combina a percentagem dos remates totais e dos remates enquadrados pertencentes ao Benfica.\n\n50 representa equilíbrio;\nacima de 50, maior controlo do Benfica;\nabaixo de 50, maior controlo do adversário.\n\n\n\n\n\n\n\n\n\nÍndice experimental de controlo de remates\n\n\nVersão 0.1 — não representa ainda uma avaliação global do desempenho\n\n\nData\nAdversário\nResultado\nRemates Benfica\nRemates adversário\nRemates enquadrados Benfica\nRemates enquadrados adversário\nÍndice de controlo\n\n\n\n\n23/07/2026\nch St. Gallen\n1-2\n14\n17\n4\n6\n42.6\n\n\n30/07/2026\nch St. Gallen\n5-0\n25\n11\n10\n3\n73.2"
+  },
+  {
+    "objectID": "data/manual/MATCH_INPUT_DICTIONARY.html",
+    "href": "data/manual/MATCH_INPUT_DICTIONARY.html",
+    "title": "Dicionário da ficha pós-jogo",
+    "section": "",
+    "text": "Identificador do jogo na football-data.org.\n\n\n\nData do jogo no formato AAAA-MM-DD.\n\n\n\nNome do adversário conforme a base principal.\n\n\n\nLocal do jogo:\n\nHome\nAway\n\n\n\n\n\n\n\nGolos marcados pelo Benfica.\n\n\n\nGolos sofridos pelo Benfica.\n\n\n\n\n\n\nPercentagem de posse do Benfica, entre 0 e 100.\n\n\n\nPercentagem de posse do adversário, entre 0 e 100.\nA soma deverá ser aproximadamente 100.\n\n\n\n\n\n\nTotal de remates do Benfica.\n\n\n\nTotal de remates do adversário.\n\n\n\nRemates enquadrados do Benfica.\n\n\n\nRemates enquadrados do adversário.\n\n\n\nRemates do Benfica dentro da área.\n\n\n\nRemates do adversário dentro da área.\n\n\n\n\n\n\nGrandes oportunidades atribuídas ao Benfica pela fonte escolhida.\n\n\n\nGrandes oportunidades atribuídas ao adversário.\n\n\n\nGolos esperados do Benfica.\n\n\n\nGolos esperados do adversário.\nO xG deve vir sempre da mesma fonte principal. Caso seja usada outra fonte, deve ser indicado em data_source ou notes.\n\n\n\n\n\n\nCantos do Benfica.\n\n\n\nCantos do adversário.\n\n\n\n\n\n\nNúmero de alterações no onze inicial relativamente ao jogo anterior.\nNo primeiro jogo da época, deixar vazio.\n\n\n\nNúmero de reforços de 2026/27 no onze inicial.\n\n\n\nSoma dos minutos jogados pelos reforços de 2026/27.\nExemplo:\n\nreforço A joga 90 minutos;\nreforço B joga 60 minutos;\ntotal = 150.\n\n\n\n\n\n\n\nIndica se o Benfica marcou o primeiro golo:\n\nTRUE\nFALSE\n\nNum jogo 0-0, deixar vazio.\n\n\n\nMinuto do primeiro golo do jogo, independentemente da equipa.\nNum jogo 0-0, deixar vazio.\n\n\n\n\n\n\nNúmero de expulsões do Benfica.\n\n\n\nNúmero de expulsões do adversário.\n\n\n\n\n\n\nFonte principal das estatísticas.\nExemplo:\n\nSofascore\nFotMob\nUEFA\nLiga Portugal\n\n\n\n\nAcontecimentos que possam distorcer a comparação:\n\nprolongamento;\nexpulsão;\nlesão precoce;\nmudança tática;\njogo interrompido;\nmétricas divergentes entre fontes;\nvalor estimado ou em falta.\n\n\n\n\n\n\nNunca substituir um valor desconhecido por zero.\nUsar vazio para dados indisponíveis.\nZero significa que a ocorrência foi medida e não aconteceu.\nManter a mesma fonte principal sempre que possível.\nRegistar mudanças de fonte.\nNão misturar xG de fornecedores diferentes sem identificação.\nRever valores anómalos antes de os usar nos modelos."
+  },
+  {
+    "objectID": "data/manual/MATCH_INPUT_DICTIONARY.html#identificação",
+    "href": "data/manual/MATCH_INPUT_DICTIONARY.html#identificação",
+    "title": "Dicionário da ficha pós-jogo",
+    "section": "",
+    "text": "Identificador do jogo na football-data.org.\n\n\n\nData do jogo no formato AAAA-MM-DD.\n\n\n\nNome do adversário conforme a base principal.\n\n\n\nLocal do jogo:\n\nHome\nAway"
+  },
+  {
+    "objectID": "data/manual/MATCH_INPUT_DICTIONARY.html#resultado",
+    "href": "data/manual/MATCH_INPUT_DICTIONARY.html#resultado",
+    "title": "Dicionário da ficha pós-jogo",
+    "section": "",
+    "text": "Golos marcados pelo Benfica.\n\n\n\nGolos sofridos pelo Benfica."
+  },
+  {
+    "objectID": "data/manual/MATCH_INPUT_DICTIONARY.html#posse",
+    "href": "data/manual/MATCH_INPUT_DICTIONARY.html#posse",
+    "title": "Dicionário da ficha pós-jogo",
+    "section": "",
+    "text": "Percentagem de posse do Benfica, entre 0 e 100.\n\n\n\nPercentagem de posse do adversário, entre 0 e 100.\nA soma deverá ser aproximadamente 100."
+  },
+  {
+    "objectID": "data/manual/MATCH_INPUT_DICTIONARY.html#remates",
+    "href": "data/manual/MATCH_INPUT_DICTIONARY.html#remates",
+    "title": "Dicionário da ficha pós-jogo",
+    "section": "",
+    "text": "Total de remates do Benfica.\n\n\n\nTotal de remates do adversário.\n\n\n\nRemates enquadrados do Benfica.\n\n\n\nRemates enquadrados do adversário.\n\n\n\nRemates do Benfica dentro da área.\n\n\n\nRemates do adversário dentro da área."
+  },
+  {
+    "objectID": "data/manual/MATCH_INPUT_DICTIONARY.html#qualidade-das-oportunidades",
+    "href": "data/manual/MATCH_INPUT_DICTIONARY.html#qualidade-das-oportunidades",
+    "title": "Dicionário da ficha pós-jogo",
+    "section": "",
+    "text": "Grandes oportunidades atribuídas ao Benfica pela fonte escolhida.\n\n\n\nGrandes oportunidades atribuídas ao adversário.\n\n\n\nGolos esperados do Benfica.\n\n\n\nGolos esperados do adversário.\nO xG deve vir sempre da mesma fonte principal. Caso seja usada outra fonte, deve ser indicado em data_source ou notes."
+  },
+  {
+    "objectID": "data/manual/MATCH_INPUT_DICTIONARY.html#bolas-paradas",
+    "href": "data/manual/MATCH_INPUT_DICTIONARY.html#bolas-paradas",
+    "title": "Dicionário da ficha pós-jogo",
+    "section": "",
+    "text": "Cantos do Benfica.\n\n\n\nCantos do adversário."
+  },
+  {
+    "objectID": "data/manual/MATCH_INPUT_DICTIONARY.html#composição-da-equipa",
+    "href": "data/manual/MATCH_INPUT_DICTIONARY.html#composição-da-equipa",
+    "title": "Dicionário da ficha pós-jogo",
+    "section": "",
+    "text": "Número de alterações no onze inicial relativamente ao jogo anterior.\nNo primeiro jogo da época, deixar vazio.\n\n\n\nNúmero de reforços de 2026/27 no onze inicial.\n\n\n\nSoma dos minutos jogados pelos reforços de 2026/27.\nExemplo:\n\nreforço A joga 90 minutos;\nreforço B joga 60 minutos;\ntotal = 150."
+  },
+  {
+    "objectID": "data/manual/MATCH_INPUT_DICTIONARY.html#estado-do-resultado",
+    "href": "data/manual/MATCH_INPUT_DICTIONARY.html#estado-do-resultado",
+    "title": "Dicionário da ficha pós-jogo",
+    "section": "",
+    "text": "Indica se o Benfica marcou o primeiro golo:\n\nTRUE\nFALSE\n\nNum jogo 0-0, deixar vazio.\n\n\n\nMinuto do primeiro golo do jogo, independentemente da equipa.\nNum jogo 0-0, deixar vazio."
+  },
+  {
+    "objectID": "data/manual/MATCH_INPUT_DICTIONARY.html#expulsões",
+    "href": "data/manual/MATCH_INPUT_DICTIONARY.html#expulsões",
+    "title": "Dicionário da ficha pós-jogo",
+    "section": "",
+    "text": "Número de expulsões do Benfica.\n\n\n\nNúmero de expulsões do adversário."
+  },
+  {
+    "objectID": "data/manual/MATCH_INPUT_DICTIONARY.html#proveniência-e-observações",
+    "href": "data/manual/MATCH_INPUT_DICTIONARY.html#proveniência-e-observações",
+    "title": "Dicionário da ficha pós-jogo",
+    "section": "",
+    "text": "Fonte principal das estatísticas.\nExemplo:\n\nSofascore\nFotMob\nUEFA\nLiga Portugal\n\n\n\n\nAcontecimentos que possam distorcer a comparação:\n\nprolongamento;\nexpulsão;\nlesão precoce;\nmudança tática;\njogo interrompido;\nmétricas divergentes entre fontes;\nvalor estimado ou em falta."
+  },
+  {
+    "objectID": "data/manual/MATCH_INPUT_DICTIONARY.html#regras-gerais",
+    "href": "data/manual/MATCH_INPUT_DICTIONARY.html#regras-gerais",
+    "title": "Dicionário da ficha pós-jogo",
+    "section": "",
+    "text": "Nunca substituir um valor desconhecido por zero.\nUsar vazio para dados indisponíveis.\nZero significa que a ocorrência foi medida e não aconteceu.\nManter a mesma fonte principal sempre que possível.\nRegistar mudanças de fonte.\nNão misturar xG de fornecedores diferentes sem identificação.\nRever valores anómalos antes de os usar nos modelos."
+  },
+  {
+    "objectID": "data/SOURCE_AND_METRIC_PLAN.html",
+    "href": "data/SOURCE_AND_METRIC_PLAN.html",
+    "title": "Plano de fontes e métricas",
+    "section": "",
+    "text": "O projeto não procura replicar websites generalistas.\nO objetivo é combinar dados de várias origens para construir métricas próprias, testar hipóteses e estudar aspetos pouco observados do desempenho do Benfica.\n\n\n\n\n\nUtilização:\n\ncalendário\nresultados\njornadas\nadversários\ncasa e fora\nplantel base\ndados pessoais básicos dos jogadores\n\nLimitações:\n\nsem estatísticas detalhadas de jogo no plano gratuito\nsem alinhamentos e substituições no plano gratuito\nsem xG\nsem eventos\n\n\n\n\nUtilização:\n\npertença real ao plantel\nreforços\ndatas de chegada\nclubes anteriores\nposições detalhadas\nsituações incertas\n\n\n\n\n\n\n\nObjetivo:\n\nforça do adversário antes de cada jogo\ndificuldade ajustada do calendário\ncontextualização de resultados\n\n\n\n\nObjetivo:\n\ndesenvolver modelos experimentais\ntestar métricas com dados de eventos\nestudar sequências, pressão, progressão e redes\nvalidar métodos antes da aplicação ao Benfica\n\n\n\n\nObjetivo:\n\nonze inicial\nsubstituições\nminutos\nremates\nposse\ncantos\ncartões\nxG quando disponível\n\n\n\n\n\n\nFamiliaridade do onze\nContinuidade por setor\nCusto temporário de integração dos reforços\nDependência estrutural de jogadores\nEfeito real das substituições\nCapacidade de controlar vantagens\nVolatilidade do desempenho\nResultado versus processo\nImpacto do descanso e sequência de jogos\nDiferença entre rotação numérica e rotação funcional\n\n\n\n\nCada indicador deverá incluir:\n\ndefinição\nfórmula\nfonte dos dados\npressupostos\nlimitações\nversão do modelo"
+  },
+  {
+    "objectID": "data/SOURCE_AND_METRIC_PLAN.html#princípio",
+    "href": "data/SOURCE_AND_METRIC_PLAN.html#princípio",
+    "title": "Plano de fontes e métricas",
+    "section": "",
+    "text": "O projeto não procura replicar websites generalistas.\nO objetivo é combinar dados de várias origens para construir métricas próprias, testar hipóteses e estudar aspetos pouco observados do desempenho do Benfica."
+  },
+  {
+    "objectID": "data/SOURCE_AND_METRIC_PLAN.html#fontes-atuais",
+    "href": "data/SOURCE_AND_METRIC_PLAN.html#fontes-atuais",
+    "title": "Plano de fontes e métricas",
+    "section": "",
+    "text": "Utilização:\n\ncalendário\nresultados\njornadas\nadversários\ncasa e fora\nplantel base\ndados pessoais básicos dos jogadores\n\nLimitações:\n\nsem estatísticas detalhadas de jogo no plano gratuito\nsem alinhamentos e substituições no plano gratuito\nsem xG\nsem eventos\n\n\n\n\nUtilização:\n\npertença real ao plantel\nreforços\ndatas de chegada\nclubes anteriores\nposições detalhadas\nsituações incertas"
+  },
+  {
+    "objectID": "data/SOURCE_AND_METRIC_PLAN.html#fontes-a-testar",
+    "href": "data/SOURCE_AND_METRIC_PLAN.html#fontes-a-testar",
+    "title": "Plano de fontes e métricas",
+    "section": "",
+    "text": "Objetivo:\n\nforça do adversário antes de cada jogo\ndificuldade ajustada do calendário\ncontextualização de resultados\n\n\n\n\nObjetivo:\n\ndesenvolver modelos experimentais\ntestar métricas com dados de eventos\nestudar sequências, pressão, progressão e redes\nvalidar métodos antes da aplicação ao Benfica\n\n\n\n\nObjetivo:\n\nonze inicial\nsubstituições\nminutos\nremates\nposse\ncantos\ncartões\nxG quando disponível"
+  },
+  {
+    "objectID": "data/SOURCE_AND_METRIC_PLAN.html#blind-spots-prioritários",
+    "href": "data/SOURCE_AND_METRIC_PLAN.html#blind-spots-prioritários",
+    "title": "Plano de fontes e métricas",
+    "section": "",
+    "text": "Familiaridade do onze\nContinuidade por setor\nCusto temporário de integração dos reforços\nDependência estrutural de jogadores\nEfeito real das substituições\nCapacidade de controlar vantagens\nVolatilidade do desempenho\nResultado versus processo\nImpacto do descanso e sequência de jogos\nDiferença entre rotação numérica e rotação funcional"
+  },
+  {
+    "objectID": "data/SOURCE_AND_METRIC_PLAN.html#regra-metodológica",
+    "href": "data/SOURCE_AND_METRIC_PLAN.html#regra-metodológica",
+    "title": "Plano de fontes e métricas",
+    "section": "",
+    "text": "Cada indicador deverá incluir:\n\ndefinição\nfórmula\nfonte dos dados\npressupostos\nlimitações\nversão do modelo"
   }
 ]

@@ -1,0 +1,96 @@
+opponent,opponent_normalized,clubelo_name,clubelo_country,clubelo_elo,clubelo_normalized,distance
+AVS,avs,Macva Sabac,SRB,1049.02087402,macva sabac,0.24242424242424254
+AVS,avs,Vasas SC,HUN,1246.13330078,vasas,0.24444444444444446
+AVS,avs,GAIS,SWE,1387.08850098,gais,0.2777777777777779
+AVS,avs,LASK,AUT,1452.54577637,lask,0.2777777777777779
+AVS,avs,Basel,SUI,1436.53771973,basel,0.3111111111111112
+Académico de Viseu FC,academico de viseu,Cremonese,ITA,1531.55664062,cremonese,0.2777777777777777
+Académico de Viseu FC,academico de viseu,Paide Linnameeskond,EST,1082.51745605,paide linnameeskond,0.30041985305143193
+Académico de Viseu FC,academico de viseu,Levadeiakos,GRE,1405.93115234,levadeiakos,0.33859427609427617
+Académico de Viseu FC,academico de viseu,Sociedad,ESP,1669.46520996,sociedad,0.3406084656084656
+Académico de Viseu FC,academico de viseu,Decic,MNT,1098.27709961,decic,0.3407407407407408
+CD Nacional,nacional,Lincoln,GIB,1065.0925293,lincoln,0.26984126984126977
+CD Nacional,nacional,Girona,ESP,1635.8059082,girona,0.2777777777777779
+CD Nacional,nacional,Napoli,ITA,1780.2956543,napoli,0.28055555555555567
+CD Nacional,nacional,Craiova,ROM,1458.68530273,craiova,0.286904761904762
+CD Nacional,nacional,Barcelona,ESP,1951.58850098,barcelona,0.3055555555555557
+CD Santa Clara,santa clara,Santa Coloma,AND,954.305236816,santa coloma,0.14393939393939392
+CD Santa Clara,santa clara,Spartak Varna,BUL,1099.84106445,spartak varna,0.21911421911421924
+CD Santa Clara,santa clara,Antalyaspor,TUR,1328.7175293,antalyaspor,0.24242424242424254
+CD Santa Clara,santa clara,Sparta Praha,CZE,1547.8470459,sparta praha,0.24368686868686873
+CD Santa Clara,santa clara,Santander,ESP,1581.93212891,santander,0.26262626262626276
+CD Tondela,tondela,Modena,ITA,1429.02416992,modena,0.2507936507936508
+CD Tondela,tondela,Entella,ITA,1358.0847168,entella,0.2571428571428571
+CD Tondela,tondela,Sunderland,ENG,1735.93017578,sunderland,0.26190476190476186
+CD Tondela,tondela,Aston Villa,ENG,1920.97021484,aston villa,0.2770562770562772
+CD Tondela,tondela,Leonesa,ESP,1367.80834961,leonesa,0.2857142857142858
+CF Estrela da Amadora,estrela da amadora,Westerlo,BEL,1475.3503418,westerlo,0.292989417989418
+CF Estrela da Amadora,estrela da amadora,Sparta Rotterdam,NED,1411.77038574,sparta rotterdam,0.3055555555555557
+CF Estrela da Amadora,estrela da amadora,Real Madrid,ESP,1922.91186523,real madrid,0.31178451178451183
+CF Estrela da Amadora,estrela da amadora,Entella,ITA,1358.0847168,entella,0.33597883597883604
+CF Estrela da Amadora,estrela da amadora,Galatasaray,TUR,1684.27087402,galatasaray,0.33838383838383845
+CS Marítimo,cs maritimo,Maritimo,POR,1399.50756836,maritimo,0.09090909090909083
+CS Marítimo,cs maritimo,Start,NOR,1294.8314209,start,0.2787878787878788
+CS Marítimo,cs maritimo,Milsami Orhei,MOL,1106.4597168,milsami orhei,0.29279979279979285
+CS Marítimo,cs maritimo,Charlton,ENG,1452.98547363,charlton,0.3068181818181819
+CS Marítimo,cs maritimo,Bari,ITA,1366.16137695,bari,0.3257575757575759
+Casa Pia AC,casa pia,Casa Pia,POR,1427.91748047,casa pia,0
+Casa Pia AC,casa pia,Kasimpasa,TUR,1383.04516602,kasimpasa,0.25
+Casa Pia AC,casa pia,CSKA Sofia,BUL,1355.23095703,cska sofia,0.27222222222222214
+Casa Pia AC,casa pia,Las Palmas,ESP,1585.08972168,las palmas,0.30000000000000004
+Casa Pia AC,casa pia,Hapoel Haifa,ISR,1230.64831543,hapoel haifa,0.3055555555555556
+FC Alverca,alverca,Almeria,ESP,1556.26367188,almeria,0.19047619047619047
+FC Alverca,alverca,Valencia,ESP,1697.41491699,valencia,0.2142857142857143
+FC Alverca,alverca,Mallorca,ESP,1642.77294922,mallorca,0.22023809523809523
+FC Alverca,alverca,Valerenga,NOR,1377.26916504,valerenga,0.2420634920634921
+FC Alverca,alverca,Alaves,ESP,1634.98181152,alaves,0.25396825396825395
+FC Arouca,arouca,Arda,BUL,1262.61499023,arda,0.25
+FC Arouca,arouca,Auda,LAT,1179.07128906,auda,0.25
+FC Arouca,arouca,Roma,ITA,1793.45056152,roma,0.25
+FC Arouca,arouca,Aarau,SUI,1267.46704102,aarau,0.26111111111111107
+FC Arouca,arouca,Mladost Lucani,SRB,1133.2512207,mladost lucani,0.26984126984126977
+FC Famalicão,famalicao,Atletico,ESP,1827.67529297,atletico,0.27314814814814825
+FC Famalicão,famalicao,Falkirk,SCO,1270.04736328,falkirk,0.32804232804232814
+FC Famalicão,famalicao,Larnaca,CYP,1494.35534668,larnaca,0.32804232804232814
+FC Famalicão,famalicao,Antalyaspor,TUR,1328.7175293,antalyaspor,0.3299663299663299
+FC Famalicão,famalicao,Malaga,ESP,1568.62780762,malaga,0.337037037037037
+FC Porto,porto,Portsmouth,ENG,1499.31555176,portsmouth,0.16666666666666674
+FC Porto,porto,Preston,ENG,1478.86474609,preston,0.20952380952380956
+FC Porto,porto,Rostov,RUS,1424.74609375,rostov,0.26111111111111107
+FC Porto,porto,Pogon,POL,1424.82580566,pogon,0.2666666666666666
+FC Porto,porto,Torpedo Kutaisi,GEO,1159.65441895,torpedo kutaisi,0.288888888888889
+GD Estoril Praia,estoril,Westerlo,BEL,1475.3503418,westerlo,0.22023809523809523
+GD Estoril Praia,estoril,Torino,ITA,1624.05871582,torino,0.25396825396825395
+GD Estoril Praia,estoril,Suedtirol,ITA,1372.29504395,suedtirol,0.26984126984127
+GD Estoril Praia,estoril,Aston Villa,ENG,1920.97021484,aston villa,0.2770562770562772
+GD Estoril Praia,estoril,Preston,ENG,1478.86474609,preston,0.2857142857142858
+Gil Vicente FC,gil vicente,Albacete,ESP,1496.30981445,albacete,0.3068181818181819
+Gil Vicente FC,gil vicente,Leuven,BEL,1422.09484863,leuven,0.3232323232323233
+Gil Vicente FC,gil vicente,Zilina,SLK,1333.45056152,zilina,0.3232323232323233
+Gil Vicente FC,gil vicente,Nice,FRA,1582.37231445,nice,0.3257575757575759
+Gil Vicente FC,gil vicente,Lorient,FRA,1639.05737305,lorient,0.34372294372294376
+Moreirense FC,moreirense,Cremonese,ITA,1531.55664062,cremonese,0.22870370370370363
+Moreirense FC,moreirense,Horsens,DEN,1347.06616211,horsens,0.26190476190476186
+Moreirense FC,moreirense,Amiens,FRA,1295.50195312,amiens,0.28888888888888875
+Moreirense FC,moreirense,Mornar,MNT,1045.57641602,mornar,0.28888888888888875
+Moreirense FC,moreirense,Rennes,FRA,1716.11889648,rennes,0.28888888888888875
+Rio Ave FC,rio ave,Viktoria Plzen,CZE,1556.39892578,viktoria plzen,0.23809523809523814
+Rio Ave FC,rio ave,Roma,ITA,1793.45056152,roma,0.2738095238095237
+Rio Ave FC,rio ave,Craiova,ROM,1458.68530273,craiova,0.29047619047619055
+Rio Ave FC,rio ave,Kryliya Sovetov,RUS,1366.14489746,kryliya sovetov,0.3031746031746032
+Rio Ave FC,rio ave,Le Havre,FRA,1580.06872559,le havre,0.30952380952380965
+Sporting Clube de Braga,de braga,Braga,POR,1698.91125488,braga,0.125
+Sporting Clube de Braga,de braga,Den Haag,NED,1317.28894043,den haag,0.2222222222222222
+Sporting Clube de Braga,de braga,Magdeburg,GER,1439.74853516,magdeburg,0.27314814814814825
+Sporting Clube de Braga,de braga,Differdang,LUX,1064.40563965,differdang,0.29166666666666674
+Sporting Clube de Braga,de braga,Derby,ENG,1539.21325684,derby,0.31666666666666676
+Sporting Clube de Portugal,de portugal,Depor,ESP,1546.31359863,depor,0.18181818181818188
+Sporting Clube de Portugal,de portugal,Torpedo Kutaisi,GEO,1159.65441895,torpedo kutaisi,0.305050505050505
+Sporting Clube de Portugal,de portugal,Dortmund,GER,1834.76879883,dortmund,0.3068181818181819
+Sporting Clube de Portugal,de portugal,Hertha,GER,1461.53930664,hertha,0.3232323232323233
+Sporting Clube de Portugal,de portugal,Petrocub,MOL,1159.45910645,petrocub,0.345959595959596
+Vitória SC,vitoria,Viktoria Plzen,CZE,1556.39892578,viktoria plzen,0.16666666666666674
+Vitória SC,vitoria,Viitorul,ROM,1293.85339355,viitorul,0.2420634920634921
+Vitória SC,vitoria,Viborg,DEN,1512.19714355,viborg,0.25396825396825395
+Vitória SC,vitoria,La Fiorita,SMR,716.190124512,la fiorita,0.26190476190476186
+Vitória SC,vitoria,Fiorentina,ITA,1670.17321777,fiorentina,0.26428571428571423
