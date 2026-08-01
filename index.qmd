@@ -161,27 +161,26 @@ integration_table |>
   )
 ```
 
-## Calendário da Primeira Liga
+## Próximos jogos
+
+## Próximos jogos
 
 ```{r}
-
 matches <- read_csv(
   "data/processed/benfica_matches_2026_27.csv",
   show_col_types = FALSE
 )
 
 calendar_table <- matches |>
-  select(
-    Data = date,
+  filter(status %in% c("SCHEDULED", "TIMED")) |>
+  arrange(date) |>
+  slice_head(n = 5) |>
+  transmute(
+    Data = format(as.Date(date), "%d/%m/%Y"),
     Jornada = matchday,
     Adversário = opponent,
-    Local = venue
-  ) |>
-  slice_head(n = 10) |>
-  mutate(
-    Data = format(as.Date(Data), "%d/%m/%Y"),
     Local = recode(
-      Local,
+      venue,
       "Home" = "Casa",
       "Away" = "Fora"
     )
@@ -190,6 +189,8 @@ calendar_table <- matches |>
 calendar_table |>
   gt()
 ```
+
+[Consultar o calendário completo](calendario.qmd)
 
 ## Estado atual
 

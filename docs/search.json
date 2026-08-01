@@ -186,7 +186,7 @@
     "href": "index.html#calendário-da-primeira-liga",
     "title": "Benfica Analytics",
     "section": "Calendário da Primeira Liga",
-    "text": "Calendário da Primeira Liga\n\n\n\n\n\n\n\n\nData\nJornada\nAdversário\nLocal\n\n\n\n\n09/08/2026\n1\nAcadémico de Viseu FC\nCasa\n\n\n16/08/2026\n2\nCasa Pia AC\nFora\n\n\n23/08/2026\n3\nMoreirense FC\nFora\n\n\n30/08/2026\n4\nGD Estoril Praia\nCasa\n\n\n06/09/2026\n5\nCS Marítimo\nFora\n\n\n13/09/2026\n6\nGil Vicente FC\nCasa\n\n\n20/09/2026\n7\nFC Porto\nFora\n\n\n11/10/2026\n8\nVitória SC\nCasa\n\n\n25/10/2026\n9\nCD Santa Clara\nFora\n\n\n01/11/2026\n10\nFC Alverca\nCasa"
+    "text": "Calendário da Primeira Liga\n\n\n\n\n\n\n\n\nData\nJornada\nAdversário\nLocal\n\n\n\n\n09/08/2026\n1\nAcadémico de Viseu FC\nCasa\n\n\n16/08/2026\n2\nCasa Pia AC\nFora\n\n\n23/08/2026\n3\nMoreirense FC\nFora\n\n\n30/08/2026\n4\nGD Estoril Praia\nCasa\n\n\n06/09/2026\n5\nCS Marítimo\nFora\n\n\n13/09/2026\n6\nGil Vicente FC\nCasa\n\n\n20/09/2026\n7\nFC Porto\nFora\n\n\n11/10/2026\n8\nVitória SC\nCasa\n\n\n25/10/2026\n9\nCD Santa Clara\nFora\n\n\n01/11/2026\n10\nFC Alverca\nCasa\n\n\n08/11/2026\n11\nCF Estrela da Amadora\nFora\n\n\n29/11/2026\n12\nFC Famalicão\nCasa\n\n\n06/12/2026\n13\nCD Nacional\nFora\n\n\n13/12/2026\n14\nSporting Clube de Braga\nCasa\n\n\n20/12/2026\n15\nRio Ave FC\nFora\n\n\n27/12/2026\n16\nSporting Clube de Portugal\nCasa\n\n\n10/01/2027\n17\nFC Arouca\nFora\n\n\n17/01/2027\n18\nAcadémico de Viseu FC\nFora\n\n\n24/01/2027\n19\nCasa Pia AC\nCasa\n\n\n31/01/2027\n20\nMoreirense FC\nCasa\n\n\n07/02/2027\n21\nGD Estoril Praia\nFora\n\n\n14/02/2027\n22\nCS Marítimo\nCasa\n\n\n21/02/2027\n23\nGil Vicente FC\nFora\n\n\n28/02/2027\n24\nFC Porto\nCasa\n\n\n07/03/2027\n25\nVitória SC\nFora\n\n\n14/03/2027\n26\nCD Santa Clara\nCasa\n\n\n21/03/2027\n27\nFC Alverca\nFora\n\n\n04/04/2027\n28\nCF Estrela da Amadora\nCasa\n\n\n11/04/2027\n29\nFC Famalicão\nFora\n\n\n18/04/2027\n30\nCD Nacional\nCasa\n\n\n25/04/2027\n31\nSporting Clube de Braga\nFora\n\n\n02/05/2027\n32\nRio Ave FC\nCasa\n\n\n09/05/2027\n33\nSporting Clube de Portugal\nFora\n\n\n16/05/2027\n34\nFC Arouca\nCasa"
   },
   {
     "objectID": "index.html#estado-atual",
@@ -222,5 +222,26 @@
     "title": "Limitações da football-data.org",
     "section": "",
     "text": "A API será usada como fonte estrutural para calendário e resultados.\nAs métricas avançadas exigirão outra fonte ou introdução manual."
+  },
+  {
+    "objectID": "calendario.html",
+    "href": "calendario.html",
+    "title": "Calendário 2026/27",
+    "section": "",
+    "text": "Primeira Liga 2026/27\n\n\nCalendário completo do SL Benfica\n\n\nJornada\nData\nAdversário\nLocal\nEstado\n\n\n\n\n1\n09/08/2026\nAcadémico de Viseu FC\nCasa\nAgendado\n\n\n2\n16/08/2026\nCasa Pia AC\nFora\nAgendado\n\n\n3\n23/08/2026\nMoreirense FC\nFora\nAgendado\n\n\n4\n30/08/2026\nGD Estoril Praia\nCasa\nAgendado\n\n\n5\n06/09/2026\nCS Marítimo\nFora\nAgendado\n\n\n6\n13/09/2026\nGil Vicente FC\nCasa\nAgendado\n\n\n7\n20/09/2026\nFC Porto\nFora\nAgendado\n\n\n8\n11/10/2026\nVitória SC\nCasa\nAgendado\n\n\n9\n25/10/2026\nCD Santa Clara\nFora\nAgendado\n\n\n10\n01/11/2026\nFC Alverca\nCasa\nAgendado\n\n\n11\n08/11/2026\nCF Estrela da Amadora\nFora\nAgendado\n\n\n12\n29/11/2026\nFC Famalicão\nCasa\nAgendado\n\n\n13\n06/12/2026\nCD Nacional\nFora\nAgendado\n\n\n14\n13/12/2026\nSporting Clube de Braga\nCasa\nAgendado\n\n\n15\n20/12/2026\nRio Ave FC\nFora\nAgendado\n\n\n16\n27/12/2026\nSporting Clube de Portugal\nCasa\nAgendado\n\n\n17\n10/01/2027\nFC Arouca\nFora\nAgendado\n\n\n18\n17/01/2027\nAcadémico de Viseu FC\nFora\nAgendado\n\n\n19\n24/01/2027\nCasa Pia AC\nCasa\nAgendado\n\n\n20\n31/01/2027\nMoreirense FC\nCasa\nAgendado\n\n\n21\n07/02/2027\nGD Estoril Praia\nFora\nAgendado\n\n\n22\n14/02/2027\nCS Marítimo\nCasa\nAgendado\n\n\n23\n21/02/2027\nGil Vicente FC\nFora\nAgendado\n\n\n24\n28/02/2027\nFC Porto\nCasa\nAgendado\n\n\n25\n07/03/2027\nVitória SC\nFora\nAgendado\n\n\n26\n14/03/2027\nCD Santa Clara\nCasa\nAgendado\n\n\n27\n21/03/2027\nFC Alverca\nFora\nAgendado\n\n\n28\n04/04/2027\nCF Estrela da Amadora\nCasa\nAgendado\n\n\n29\n11/04/2027\nFC Famalicão\nFora\nAgendado\n\n\n30\n18/04/2027\nCD Nacional\nCasa\nAgendado\n\n\n31\n25/04/2027\nSporting Clube de Braga\nFora\nAgendado\n\n\n32\n02/05/2027\nRio Ave FC\nCasa\nAgendado\n\n\n33\n09/05/2027\nSporting Clube de Portugal\nFora\nAgendado\n\n\n34\n16/05/2027\nFC Arouca\nCasa\nAgendado"
+  },
+  {
+    "objectID": "index.html#próximos-jogos",
+    "href": "index.html#próximos-jogos",
+    "title": "Benfica Analytics",
+    "section": "Próximos jogos",
+    "text": "Próximos jogos"
+  },
+  {
+    "objectID": "index.html#próximos-jogos-1",
+    "href": "index.html#próximos-jogos-1",
+    "title": "Benfica Analytics",
+    "section": "Próximos jogos",
+    "text": "Próximos jogos\n\n\n\n\n\n\n\n\nData\nJornada\nAdversário\nLocal\n\n\n\n\n09/08/2026\n1\nAcadémico de Viseu FC\nCasa\n\n\n16/08/2026\n2\nCasa Pia AC\nFora\n\n\n23/08/2026\n3\nMoreirense FC\nFora\n\n\n30/08/2026\n4\nGD Estoril Praia\nCasa\n\n\n06/09/2026\n5\nCS Marítimo\nFora\n\n\n\n\n\n\n\nConsultar o calendário completo"
   }
 ]

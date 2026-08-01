@@ -1,0 +1,45 @@
+---
+title: "Calendário 2026/27"
+format: html
+execute:
+  echo: false
+  warning: false
+  message: false
+---
+
+```{r}
+library(tidyverse)
+library(gt)
+
+matches <- read_csv(
+  "data/processed/benfica_matches_2026_27.csv",
+  show_col_types = FALSE
+)
+
+calendar_table <- matches |>
+  transmute(
+    Jornada = matchday,
+    Data = format(as.Date(date), "%d/%m/%Y"),
+    Adversário = opponent,
+    Local = recode(
+      venue,
+      "Home" = "Casa",
+      "Away" = "Fora"
+    ),
+    Estado = recode(
+      status,
+      "SCHEDULED" = "Agendado",
+      "TIMED" = "Agendado",
+      "FINISHED" = "Terminado",
+      "POSTPONED" = "Adiado",
+      .default = status
+    )
+  )
+
+calendar_table |>
+  gt() |>
+  tab_header(
+    title = "Primeira Liga 2026/27",
+    subtitle = "Calendário completo do SL Benfica"
+  )
+```

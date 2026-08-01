@@ -5,12 +5,17 @@ project:
 website:
   title: "Benfica Analytics"
   favicon: images/benfica-analytics-logo.png
+
   navbar:
     background: "#D00000"
     logo: images/benfica-analytics-logo.png
+
     left:
       - href: index.qmd
         text: Início
+
+      - href: calendario.qmd
+        text: Calendário
 
 format:
   html:
