@@ -17,6 +17,8 @@ website:
       - href: calendario.qmd
         text: Calendário
 
+      - href: metodologia.qmd
+        text: Metodologia
 format:
   html:
     toc: true

@@ -243,5 +243,47 @@
     "title": "Benfica Analytics",
     "section": "Próximos jogos",
     "text": "Próximos jogos\n\n\n\n\n\n\n\n\nData\nJornada\nAdversário\nLocal\n\n\n\n\n09/08/2026\n1\nAcadémico de Viseu FC\nCasa\n\n\n16/08/2026\n2\nCasa Pia AC\nFora\n\n\n23/08/2026\n3\nMoreirense FC\nFora\n\n\n30/08/2026\n4\nGD Estoril Praia\nCasa\n\n\n06/09/2026\n5\nCS Marítimo\nFora\n\n\n\n\n\n\n\nConsultar o calendário completo"
+  },
+  {
+    "objectID": "metodologia.html",
+    "href": "metodologia.html",
+    "title": "Metodologia",
+    "section": "",
+    "text": "O Benfica Analytics procura estudar aspetos do desempenho que nem sempre são visíveis no resultado final ou nas estatísticas mais comuns.\nAs métricas apresentadas são experimentais e serão revistas à medida que forem incorporados mais jogos e novas fontes."
+  },
+  {
+    "objectID": "metodologia.html#princípio-do-projeto",
+    "href": "metodologia.html#princípio-do-projeto",
+    "title": "Metodologia",
+    "section": "",
+    "text": "O Benfica Analytics procura estudar aspetos do desempenho que nem sempre são visíveis no resultado final ou nas estatísticas mais comuns.\nAs métricas apresentadas são experimentais e serão revistas à medida que forem incorporados mais jogos e novas fontes."
+  },
+  {
+    "objectID": "metodologia.html#índice-de-controlo-de-remates",
+    "href": "metodologia.html#índice-de-controlo-de-remates",
+    "title": "Metodologia",
+    "section": "Índice de controlo de remates",
+    "text": "Índice de controlo de remates\nO índice combina:\n\npercentagem dos remates totais pertencentes ao Benfica;\npercentagem dos remates enquadrados pertencentes ao Benfica.\n\n\nFórmula\nÍndice = 100 × (0,5 × quota de remates + 0,5 × quota de remates enquadrados)\n\n\nInterpretação\n\n50 — equilíbrio;\nacima de 50 — maior controlo do Benfica;\nabaixo de 50 — maior controlo do adversário.\n\n\n\nLimitações\nO índice não considera ainda:\n\nlocalização dos remates;\nqualidade individual das oportunidades;\nestado do marcador;\nexpulsões;\ncontexto tático;\nxG."
+  },
+  {
+    "objectID": "metodologia.html#exposição-defensiva",
+    "href": "metodologia.html#exposição-defensiva",
+    "title": "Metodologia",
+    "section": "Exposição defensiva",
+    "text": "Exposição defensiva\nMede a percentagem dos remates adversários que chegaram enquadrados.\n\nFórmula\nExposição = 100 × remates enquadrados sofridos / remates sofridos\nUma exposição elevada pode indicar que, mesmo concedendo poucos remates, o Benfica permitiu oportunidades relativamente perigosas."
+  },
+  {
+    "objectID": "metodologia.html#dependência-do-guarda-redes",
+    "href": "metodologia.html#dependência-do-guarda-redes",
+    "title": "Metodologia",
+    "section": "Dependência do guarda-redes",
+    "text": "Dependência do guarda-redes\nMede a proporção dos remates enquadrados adversários que foram defendidos.\n\nFórmula\nDependência = 100 × defesas / remates enquadrados sofridos\nEste indicador deve ser interpretado juntamente com:\n\nnúmero de remates sofridos;\nnúmero de remates enquadrados;\ngolos sofridos;\nqualidade das oportunidades."
+  },
+  {
+    "objectID": "metodologia.html#regras-metodológicas",
+    "href": "metodologia.html#regras-metodológicas",
+    "title": "Metodologia",
+    "section": "Regras metodológicas",
+    "text": "Regras metodológicas\nCada métrica deverá indicar:\n\nversão;\ndefinição;\nfórmula;\nfonte;\npressupostos;\nlimitações;\ndata da última alteração.\n\nOs valores desconhecidos permanecem vazios. Um valor zero só é usado quando a ocorrência foi medida e não aconteceu."
   }
 ]

@@ -1,0 +1,87 @@
+---
+title: "Metodologia"
+format: html
+execute:
+  echo: false
+  warning: false
+  message: false
+---
+
+## Princípio do projeto
+
+O Benfica Analytics procura estudar aspetos do desempenho que nem sempre são visíveis no resultado final ou nas estatísticas mais comuns.
+
+As métricas apresentadas são experimentais e serão revistas à medida que forem incorporados mais jogos e novas fontes.
+
+## Índice de controlo de remates
+
+O índice combina:
+
+- percentagem dos remates totais pertencentes ao Benfica;
+- percentagem dos remates enquadrados pertencentes ao Benfica.
+
+### Fórmula
+
+```text
+Índice = 100 × (0,5 × quota de remates + 0,5 × quota de remates enquadrados)
+```
+
+### Interpretação
+
+- **50** — equilíbrio;
+- acima de **50** — maior controlo do Benfica;
+- abaixo de **50** — maior controlo do adversário.
+
+### Limitações
+
+O índice não considera ainda:
+
+- localização dos remates;
+- qualidade individual das oportunidades;
+- estado do marcador;
+- expulsões;
+- contexto tático;
+- xG.
+
+## Exposição defensiva
+
+Mede a percentagem dos remates adversários que chegaram enquadrados.
+
+### Fórmula
+
+```text
+Exposição = 100 × remates enquadrados sofridos / remates sofridos
+```
+
+Uma exposição elevada pode indicar que, mesmo concedendo poucos remates, o Benfica permitiu oportunidades relativamente perigosas.
+
+## Dependência do guarda-redes
+
+Mede a proporção dos remates enquadrados adversários que foram defendidos.
+
+### Fórmula
+
+```text
+Dependência = 100 × defesas / remates enquadrados sofridos
+```
+
+Este indicador deve ser interpretado juntamente com:
+
+- número de remates sofridos;
+- número de remates enquadrados;
+- golos sofridos;
+- qualidade das oportunidades.
+
+## Regras metodológicas
+
+Cada métrica deverá indicar:
+
+- versão;
+- definição;
+- fórmula;
+- fonte;
+- pressupostos;
+- limitações;
+- data da última alteração.
+
+Os valores desconhecidos permanecem vazios. Um valor zero só é usado quando a ocorrência foi medida e não aconteceu.
