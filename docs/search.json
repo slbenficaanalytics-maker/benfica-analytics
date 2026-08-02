@@ -285,5 +285,12 @@
     "title": "Metodologia",
     "section": "Regras metodológicas",
     "text": "Regras metodológicas\nCada métrica deverá indicar:\n\nversão;\ndefinição;\nfórmula;\nfonte;\npressupostos;\nlimitações;\ndata da última alteração.\n\nOs valores desconhecidos permanecem vazios. Um valor zero só é usado quando a ocorrência foi medida e não aconteceu."
+  },
+  {
+    "objectID": "index.html#eficiência-da-posse",
+    "href": "index.html#eficiência-da-posse",
+    "title": "Benfica Analytics",
+    "section": "Eficiência da posse",
+    "text": "Eficiência da posse\nEsta métrica compara a percentagem de posse do Benfica com a percentagem dos remates do jogo que lhe pertenceu.\n\nvalor próximo de 0 — posse e produção de remates alinhadas;\nvalor positivo — mais posse do que quota de remates;\nvalor negativo — mais quota de remates do que a posse sugeriria.\n\n\n\n\n\n\n\n\n\nEficiência da posse\n\n\nVersão 0.1 — relação entre posse e produção de remates\n\n\nData\nAdversário\nResultado\nPosse\nQuota de remates\nDiferença posse-remates\nRemates por 10 pontos de posse\nPosse potencialmente estéril\n\n\n\n\n23/07/2026\nch St. Gallen\n1-2\n61%\n45.2%\n15.8\n2.30\nSim\n\n\n30/07/2026\nch St. Gallen\n5-0\n72%\n69.4%\n2.6\n3.47\nNão"
   }
 ]

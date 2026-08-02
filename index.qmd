@@ -126,6 +126,53 @@ defensive_exposure_table |>
   )
 ```
 
+## Eficiência da posse
+
+Esta métrica compara a percentagem de posse do Benfica com a percentagem dos remates do jogo que lhe pertenceu.
+
+- valor próximo de **0** — posse e produção de remates alinhadas;
+- valor positivo — mais posse do que quota de remates;
+- valor negativo — mais quota de remates do que a posse sugeriria.
+
+```{r}
+possession_efficiency <- read_csv(
+  "data/fbref/processed/benfica_2026_27_possession_efficiency.csv",
+  show_col_types = FALSE
+)
+
+possession_efficiency_table <- possession_efficiency |>
+  transmute(
+    Data = format(as.Date(date), "%d/%m/%Y"),
+    Adversário = opponent,
+    Resultado = paste0(goals_for, "-", goals_against),
+    Posse = paste0(round(possession, 1), "%"),
+    `Quota de remates` = paste0(
+      round(100 * shot_share, 1),
+      "%"
+    ),
+    `Diferença posse-remates` = round(
+      possession_to_shot_gap,
+      1
+    ),
+    `Remates por 10 pontos de posse` = round(
+      shots_per_10_possession_points,
+      2
+    ),
+    `Posse potencialmente estéril` = case_when(
+  sterile_possession_flag == TRUE ~ "Sim",
+  sterile_possession_flag == FALSE ~ "Não",
+  TRUE ~ "Sem dados"
+)
+  )
+
+possession_efficiency_table |>
+  gt() |>
+  tab_header(
+    title = "Eficiência da posse",
+    subtitle = "Versão 0.1 — relação entre posse e produção de remates"
+  )
+```
+
 ## Integração dos reforços
 
 ```{r}

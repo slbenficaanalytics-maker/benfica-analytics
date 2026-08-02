@@ -1,0 +1,3 @@
+date,opponent,goals_for,goals_against,possession,shots,shots_against,shot_share,possession_to_shot_gap,shots_per_10_possession_points,sterile_possession_flag
+2026-07-23,ch St. Gallen,1,2,61,14,17,0.45161290322580644,15.838709677419354,2.2950819672131146,TRUE
+2026-07-30,ch St. Gallen,5,0,72,25,11,0.6944444444444444,2.5555555555555554,3.4722222222222223,FALSE
