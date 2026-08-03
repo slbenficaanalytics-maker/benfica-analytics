@@ -88,7 +88,7 @@
     "href": "data/SOURCE_AND_METRIC_PLAN.html",
     "title": "Plano de fontes e métricas",
     "section": "",
-    "text": "O projeto não procura replicar websites generalistas.\nO objetivo é combinar dados de várias origens para construir métricas próprias, testar hipóteses e estudar aspetos pouco observados do desempenho do Benfica.\n\n\n\n\n\nUtilização:\n\ncalendário\nresultados\njornadas\nadversários\ncasa e fora\nplantel base\ndados pessoais básicos dos jogadores\n\nLimitações:\n\nsem estatísticas detalhadas de jogo no plano gratuito\nsem alinhamentos e substituições no plano gratuito\nsem xG\nsem eventos\n\n\n\n\nUtilização:\n\npertença real ao plantel\nreforços\ndatas de chegada\nclubes anteriores\nposições detalhadas\nsituações incertas\n\n\n\n\n\n\n\nObjetivo:\n\nforça do adversário antes de cada jogo\ndificuldade ajustada do calendário\ncontextualização de resultados\n\n\n\n\nObjetivo:\n\ndesenvolver modelos experimentais\ntestar métricas com dados de eventos\nestudar sequências, pressão, progressão e redes\nvalidar métodos antes da aplicação ao Benfica\n\n\n\n\nObjetivo:\n\nonze inicial\nsubstituições\nminutos\nremates\nposse\ncantos\ncartões\nxG quando disponível\n\n\n\n\n\n\nFamiliaridade do onze\nContinuidade por setor\nCusto temporário de integração dos reforços\nDependência estrutural de jogadores\nEfeito real das substituições\nCapacidade de controlar vantagens\nVolatilidade do desempenho\nResultado versus processo\nImpacto do descanso e sequência de jogos\nDiferença entre rotação numérica e rotação funcional\n\n\n\n\nCada indicador deverá incluir:\n\ndefinição\nfórmula\nfonte dos dados\npressupostos\nlimitações\nversão do modelo"
+    "text": "O projeto não procura replicar websites generalistas.\nO objetivo é combinar dados de várias origens para construir métricas próprias, testar hipóteses e estudar aspetos pouco observados do desempenho do Benfica.\n\n\n\n\n\nUtilização:\n\nremates a favor\nremates contra\nremates enquadrados\nmétricas de eficácia de remate\ndados de guarda-redes\nposse\nformação\nformação adversária\ncapitão\nárbitro\ncontexto competitivo\n\nMétodo atual:\n\nexportação manual através de Share & Export\nimportação e limpeza automáticas em R\natualização após cada jogo\n\nLimitações:\n\nacesso automático bloqueado em alguns pedidos\nsem API oficial usada neste projeto\nsem exportação estável da sequência cronológica dos golos por jogo\ncobertura variável conforme a tabela e a competição\n\n\n\n\nUtilização:\n\ncalendário\nresultados\njornadas\nadversários\ncasa e fora\nplantel base\ndados pessoais básicos dos jogadores\n\nLimitações:\n\nsem estatísticas detalhadas de jogo no plano gratuito\nsem alinhamentos e substituições no plano gratuito\nsem xG\nsem eventos\n\n\n\n\nUtilização:\n\npertença real ao plantel\nreforços\ndatas de chegada\nclubes anteriores\nposições detalhadas\nsituações incertas\nequipa que marcou primeiro\nminuto do primeiro golo\nsequência cronológica dos golos, quando necessária\n\n\n\n\n\n\n\nObjetivo:\n\nforça do adversário antes de cada jogo\ndificuldade ajustada do calendário\ncontextualização de resultados\n\n\n\n\nObjetivo:\n\ndesenvolver modelos experimentais\ntestar métricas com dados de eventos\nestudar sequências, pressão, progressão e redes\nvalidar métodos antes da aplicação ao Benfica\n\n\n\n\nObjetivo:\n\nonze inicial\nsubstituições\nminutos\nremates\nposse\ncantos\ncartões\nxG quando disponível\n\n\n\n\n\n\nFamiliaridade do onze\nContinuidade por setor\nCusto temporário de integração dos reforços\nDependência estrutural de jogadores\nEfeito real das substituições\nCapacidade de controlar vantagens\nVolatilidade do desempenho\nResultado versus processo\nImpacto do descanso e sequência de jogos\nDiferença entre rotação numérica e rotação funcional\n\n\n\n\nCada indicador deverá incluir:\n\ndefinição\nfórmula\nfonte dos dados\npressupostos\nlimitações\nversão do modelo\n\n\n\nUtilização:\n\nremates a favor\nremates contra\nremates enquadrados\nmétricas de eficácia de remate\ndados de guarda-redes\nposse\nformação\nformação adversária\ncapitão\nárbitro\ncontexto competitivo\n\nMétodo atual:\n\nexportação manual através de Share & Export\nimportação e limpeza automáticas em R\natualização após cada jogo\n\nLimitações:\n\nacesso automático bloqueado em alguns pedidos\nsem API oficial usada neste projeto\nsem exportação estável da sequência cronológica dos golos por jogo\nsem tabela Goal and Shot Creation disponível para o Benfica nesta época\ncobertura variável conforme a tabela e a competição"
   },
   {
     "objectID": "data/SOURCE_AND_METRIC_PLAN.html#princípio",
@@ -102,7 +102,7 @@
     "href": "data/SOURCE_AND_METRIC_PLAN.html#fontes-atuais",
     "title": "Plano de fontes e métricas",
     "section": "",
-    "text": "Utilização:\n\ncalendário\nresultados\njornadas\nadversários\ncasa e fora\nplantel base\ndados pessoais básicos dos jogadores\n\nLimitações:\n\nsem estatísticas detalhadas de jogo no plano gratuito\nsem alinhamentos e substituições no plano gratuito\nsem xG\nsem eventos\n\n\n\n\nUtilização:\n\npertença real ao plantel\nreforços\ndatas de chegada\nclubes anteriores\nposições detalhadas\nsituações incertas"
+    "text": "Utilização:\n\nremates a favor\nremates contra\nremates enquadrados\nmétricas de eficácia de remate\ndados de guarda-redes\nposse\nformação\nformação adversária\ncapitão\nárbitro\ncontexto competitivo\n\nMétodo atual:\n\nexportação manual através de Share & Export\nimportação e limpeza automáticas em R\natualização após cada jogo\n\nLimitações:\n\nacesso automático bloqueado em alguns pedidos\nsem API oficial usada neste projeto\nsem exportação estável da sequência cronológica dos golos por jogo\ncobertura variável conforme a tabela e a competição\n\n\n\n\nUtilização:\n\ncalendário\nresultados\njornadas\nadversários\ncasa e fora\nplantel base\ndados pessoais básicos dos jogadores\n\nLimitações:\n\nsem estatísticas detalhadas de jogo no plano gratuito\nsem alinhamentos e substituições no plano gratuito\nsem xG\nsem eventos\n\n\n\n\nUtilização:\n\npertença real ao plantel\nreforços\ndatas de chegada\nclubes anteriores\nposições detalhadas\nsituações incertas\nequipa que marcou primeiro\nminuto do primeiro golo\nsequência cronológica dos golos, quando necessária"
   },
   {
     "objectID": "data/SOURCE_AND_METRIC_PLAN.html#fontes-a-testar",
@@ -123,7 +123,7 @@
     "href": "data/SOURCE_AND_METRIC_PLAN.html#regra-metodológica",
     "title": "Plano de fontes e métricas",
     "section": "",
-    "text": "Cada indicador deverá incluir:\n\ndefinição\nfórmula\nfonte dos dados\npressupostos\nlimitações\nversão do modelo"
+    "text": "Cada indicador deverá incluir:\n\ndefinição\nfórmula\nfonte dos dados\npressupostos\nlimitações\nversão do modelo\n\n\n\nUtilização:\n\nremates a favor\nremates contra\nremates enquadrados\nmétricas de eficácia de remate\ndados de guarda-redes\nposse\nformação\nformação adversária\ncapitão\nárbitro\ncontexto competitivo\n\nMétodo atual:\n\nexportação manual através de Share & Export\nimportação e limpeza automáticas em R\natualização após cada jogo\n\nLimitações:\n\nacesso automático bloqueado em alguns pedidos\nsem API oficial usada neste projeto\nsem exportação estável da sequência cronológica dos golos por jogo\nsem tabela Goal and Shot Creation disponível para o Benfica nesta época\ncobertura variável conforme a tabela e a competição"
   },
   {
     "objectID": "reports:teste.html",
@@ -292,5 +292,68 @@
     "title": "Benfica Analytics",
     "section": "Eficiência da posse",
     "text": "Eficiência da posse\nEsta métrica compara a percentagem de posse do Benfica com a percentagem dos remates do jogo que lhe pertenceu.\n\nvalor próximo de 0 — posse e produção de remates alinhadas;\nvalor positivo — mais posse do que quota de remates;\nvalor negativo — mais quota de remates do que a posse sugeriria.\n\n\n\n\n\n\n\n\n\nEficiência da posse\n\n\nVersão 0.1 — relação entre posse e produção de remates\n\n\nData\nAdversário\nResultado\nPosse\nQuota de remates\nDiferença posse-remates\nRemates por 10 pontos de posse\nPosse potencialmente estéril\n\n\n\n\n23/07/2026\nch St. Gallen\n1-2\n61%\n45.2%\n15.8\n2.30\nSim\n\n\n30/07/2026\nch St. Gallen\n5-0\n72%\n69.4%\n2.6\n3.47\nNão"
+  },
+  {
+    "objectID": "data/ANALYTICAL_HYPOTHESES.html",
+    "href": "data/ANALYTICAL_HYPOTHESES.html",
+    "title": "Hipóteses analíticas",
+    "section": "",
+    "text": "Este documento regista as perguntas experimentais do projeto.\nCada hipótese deverá ser testada, revista ou rejeitada com base nos dados.\n\n\nO Benfica pode dominar o número de remates sem dominar a qualidade real das oportunidades.\n\n\n\nremates\nremates enquadrados\ndistância média dos remates\nxG, quando disponível\ngrandes oportunidades\n\n\n\n\nEm preparação.\n\n\n\n\n\nO Benfica pode conceder poucos remates, mas permitir que uma proporção elevada chegue enquadrada.\n\n\n\nremates sofridos\nremates enquadrados sofridos\ndefesas\ngolos sofridos\n\n\n\n\nÍndice de exposição defensiva.\n\n\n\nPrimeira versão criada.\n\n\n\n\n\nAlguns resultados defensivos positivos podem esconder uma exposição elevada compensada pelo guarda-redes.\n\n\n\nremates enquadrados sofridos\ndefesas\ngolos sofridos\nxG pós-remate, quando disponível\n\n\n\n\nPrimeira versão criada.\n\n\n\n\n\nA entrada de reforços pode melhorar algumas dimensões individuais e reduzir temporariamente a coordenação coletiva.\n\n\n\nreforços no onze\nminutos dos reforços\nalterações no onze\ndesempenho antes e depois da entrada\ncontinuidade por setor\n\n\n\n\nBase do plantel criada; faltam alinhamentos e minutos.\n\n\n\n\n\nAlterar jogadores não significa necessariamente alterar funções, e manter jogadores não significa necessariamente manter a estrutura.\n\n\n\nonze inicial\nposição e função\nsubstituições\nformação\nredes de passe ou aproximações equivalentes\n\n\n\n\nPor desenvolver.\n\n\n\n\n\nVitórias e derrotas podem não representar corretamente o processo produzido.\n\n\n\nresultado\ncontrolo de remates\nexposição defensiva\nxG\nforça do adversário\nestado do marcador\n\n\n\n\nPrimeiras métricas disponíveis.\n\n\n\n\n\nMarcar primeiro não significa necessariamente controlar o jogo depois da vantagem.\n\n\n\nminuto dos golos\nremates antes e depois do primeiro golo\nposse ou territorialidade por períodos\nsubstituições\nresultado final\n\n\n\n\nPor desenvolver.\n\n\n\n\n\nCada hipótese deverá indicar:\n\npergunta;\nmecanismo esperado;\nvariáveis;\nmodelo ou teste;\nresultado;\nincerteza;\nlimitações;\ndecisão: mantida, reformulada ou rejeitada."
+  },
+  {
+    "objectID": "data/ANALYTICAL_HYPOTHESES.html#h01-volume-versus-qualidade",
+    "href": "data/ANALYTICAL_HYPOTHESES.html#h01-volume-versus-qualidade",
+    "title": "Hipóteses analíticas",
+    "section": "",
+    "text": "O Benfica pode dominar o número de remates sem dominar a qualidade real das oportunidades.\n\n\n\nremates\nremates enquadrados\ndistância média dos remates\nxG, quando disponível\ngrandes oportunidades\n\n\n\n\nEm preparação."
+  },
+  {
+    "objectID": "data/ANALYTICAL_HYPOTHESES.html#h02-exposição-defensiva-oculta",
+    "href": "data/ANALYTICAL_HYPOTHESES.html#h02-exposição-defensiva-oculta",
+    "title": "Hipóteses analíticas",
+    "section": "",
+    "text": "O Benfica pode conceder poucos remates, mas permitir que uma proporção elevada chegue enquadrada.\n\n\n\nremates sofridos\nremates enquadrados sofridos\ndefesas\ngolos sofridos\n\n\n\n\nÍndice de exposição defensiva.\n\n\n\nPrimeira versão criada."
+  },
+  {
+    "objectID": "data/ANALYTICAL_HYPOTHESES.html#h03-dependência-do-guarda-redes",
+    "href": "data/ANALYTICAL_HYPOTHESES.html#h03-dependência-do-guarda-redes",
+    "title": "Hipóteses analíticas",
+    "section": "",
+    "text": "Alguns resultados defensivos positivos podem esconder uma exposição elevada compensada pelo guarda-redes.\n\n\n\nremates enquadrados sofridos\ndefesas\ngolos sofridos\nxG pós-remate, quando disponível\n\n\n\n\nPrimeira versão criada."
+  },
+  {
+    "objectID": "data/ANALYTICAL_HYPOTHESES.html#h04-custo-temporário-da-integração",
+    "href": "data/ANALYTICAL_HYPOTHESES.html#h04-custo-temporário-da-integração",
+    "title": "Hipóteses analíticas",
+    "section": "",
+    "text": "A entrada de reforços pode melhorar algumas dimensões individuais e reduzir temporariamente a coordenação coletiva.\n\n\n\nreforços no onze\nminutos dos reforços\nalterações no onze\ndesempenho antes e depois da entrada\ncontinuidade por setor\n\n\n\n\nBase do plantel criada; faltam alinhamentos e minutos."
+  },
+  {
+    "objectID": "data/ANALYTICAL_HYPOTHESES.html#h05-continuidade-funcional",
+    "href": "data/ANALYTICAL_HYPOTHESES.html#h05-continuidade-funcional",
+    "title": "Hipóteses analíticas",
+    "section": "",
+    "text": "Alterar jogadores não significa necessariamente alterar funções, e manter jogadores não significa necessariamente manter a estrutura.\n\n\n\nonze inicial\nposição e função\nsubstituições\nformação\nredes de passe ou aproximações equivalentes\n\n\n\n\nPor desenvolver."
+  },
+  {
+    "objectID": "data/ANALYTICAL_HYPOTHESES.html#h06-resultado-enganador",
+    "href": "data/ANALYTICAL_HYPOTHESES.html#h06-resultado-enganador",
+    "title": "Hipóteses analíticas",
+    "section": "",
+    "text": "Vitórias e derrotas podem não representar corretamente o processo produzido.\n\n\n\nresultado\ncontrolo de remates\nexposição defensiva\nxG\nforça do adversário\nestado do marcador\n\n\n\n\nPrimeiras métricas disponíveis."
+  },
+  {
+    "objectID": "data/ANALYTICAL_HYPOTHESES.html#h07-controlo-da-vantagem",
+    "href": "data/ANALYTICAL_HYPOTHESES.html#h07-controlo-da-vantagem",
+    "title": "Hipóteses analíticas",
+    "section": "",
+    "text": "Marcar primeiro não significa necessariamente controlar o jogo depois da vantagem.\n\n\n\nminuto dos golos\nremates antes e depois do primeiro golo\nposse ou territorialidade por períodos\nsubstituições\nresultado final\n\n\n\n\nPor desenvolver."
+  },
+  {
+    "objectID": "data/ANALYTICAL_HYPOTHESES.html#regra-de-avaliação",
+    "href": "data/ANALYTICAL_HYPOTHESES.html#regra-de-avaliação",
+    "title": "Hipóteses analíticas",
+    "section": "",
+    "text": "Cada hipótese deverá indicar:\n\npergunta;\nmecanismo esperado;\nvariáveis;\nmodelo ou teste;\nresultado;\nincerteza;\nlimitações;\ndecisão: mantida, reformulada ou rejeitada."
   }
 ]

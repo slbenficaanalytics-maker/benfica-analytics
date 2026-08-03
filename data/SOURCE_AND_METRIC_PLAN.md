@@ -9,6 +9,35 @@ testar hipóteses e estudar aspetos pouco observados do desempenho do Benfica.
 
 ## Fontes atuais
 
+### FBref
+
+Utilização:
+
+- remates a favor
+- remates contra
+- remates enquadrados
+- métricas de eficácia de remate
+- dados de guarda-redes
+- posse
+- formação
+- formação adversária
+- capitão
+- árbitro
+- contexto competitivo
+
+Método atual:
+
+- exportação manual através de Share & Export
+- importação e limpeza automáticas em R
+- atualização após cada jogo
+
+Limitações:
+
+- acesso automático bloqueado em alguns pedidos
+- sem API oficial usada neste projeto
+- sem exportação estável da sequência cronológica dos golos por jogo
+- cobertura variável conforme a tabela e a competição
+
 ### football-data.org
 
 Utilização:
@@ -38,6 +67,9 @@ Utilização:
 - clubes anteriores
 - posições detalhadas
 - situações incertas
+- equipa que marcou primeiro
+- minuto do primeiro golo
+- sequência cronológica dos golos, quando necessária
 
 ## Fontes a testar
 
@@ -94,3 +126,33 @@ Cada indicador deverá incluir:
 - pressupostos
 - limitações
 - versão do modelo
+
+### FBref
+
+Utilização:
+
+- remates a favor
+- remates contra
+- remates enquadrados
+- métricas de eficácia de remate
+- dados de guarda-redes
+- posse
+- formação
+- formação adversária
+- capitão
+- árbitro
+- contexto competitivo
+
+Método atual:
+
+- exportação manual através de Share & Export
+- importação e limpeza automáticas em R
+- atualização após cada jogo
+
+Limitações:
+
+- acesso automático bloqueado em alguns pedidos
+- sem API oficial usada neste projeto
+- sem exportação estável da sequência cronológica dos golos por jogo
+- sem tabela Goal and Shot Creation disponível para o Benfica nesta época
+- cobertura variável conforme a tabela e a competição

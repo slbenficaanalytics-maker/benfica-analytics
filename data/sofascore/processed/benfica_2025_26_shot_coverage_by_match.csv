@@ -1,0 +1,55 @@
+event_id,date,competition,opponent,total_shots,shots_with_xg,benfica_shots,opponent_shots,xg_available
+14131859,2025-09-23,Liga Portugal Betclic,Rio Ave,23,23,19,4,True
+14131876,2025-08-16,Liga Portugal Betclic,CF Estrela Amadora,29,29,14,15,True
+14131880,2025-08-23,Liga Portugal Betclic,Tondela,30,30,21,9,True
+14131888,2025-08-31,Liga Portugal Betclic,FC Alverca,17,17,6,11,True
+14131901,2025-09-12,Liga Portugal Betclic,Santa Clara,28,28,19,9,True
+14131904,2025-09-20,Liga Portugal Betclic,AVS - Futebol SAD,27,27,19,8,True
+14131920,2025-09-26,Liga Portugal Betclic,Gil Vicente,26,26,10,16,True
+14131931,2025-10-05,Liga Portugal Betclic,FC Porto,12,12,4,8,True
+14131939,2025-10-25,Liga Portugal Betclic,FC Arouca,22,22,17,5,True
+14131949,2025-11-01,Liga Portugal Betclic,Vitória SC,34,34,24,10,True
+14131956,2025-11-09,Liga Portugal Betclic,Casa Pia,27,26,19,8,True
+14131968,2025-11-29,Liga Portugal Betclic,CD Nacional,36,36,30,6,True
+14131973,2025-12-05,Liga Portugal Betclic,Sporting CP,15,15,10,5,True
+14131986,2025-12-14,Liga Portugal Betclic,Moreirense,20,20,10,10,True
+14241230,2025-08-06,"UEFA Champions League, Qualification",Nice,25,0,13,12,False
+14241253,2025-08-12,"UEFA Champions League, Qualification",Nice,30,0,21,9,False
+14288810,2026-03-02,Liga Portugal Betclic,Gil Vicente,23,23,10,13,True
+14288822,2026-03-08,Liga Portugal Betclic,FC Porto,34,34,20,14,True
+14288830,2026-03-14,Liga Portugal Betclic,FC Arouca,34,34,22,12,True
+14288840,2025-12-22,Liga Portugal Betclic,Famalicão,14,14,10,4,True
+14288841,2026-03-21,Liga Portugal Betclic,Vitória SC,29,28,13,16,True
+14288848,2026-04-06,Liga Portugal Betclic,Casa Pia,26,26,18,8,True
+14288859,2026-04-12,Liga Portugal Betclic,CD Nacional,31,31,24,7,True
+14288865,2026-04-19,Liga Portugal Betclic,Sporting CP,33,33,14,19,True
+14288877,2026-04-25,Liga Portugal Betclic,Moreirense,25,25,17,8,True
+14288883,2026-05-02,Liga Portugal Betclic,Famalicão,23,23,8,15,True
+14288898,2026-05-11,Liga Portugal Betclic,Sporting Braga,29,29,24,5,True
+14288915,2025-12-28,Liga Portugal Betclic,Sporting Braga,25,25,14,11,True
+14288921,2026-01-03,Liga Portugal Betclic,Estoril Praia,29,29,20,9,True
+14288934,2026-01-17,Liga Portugal Betclic,Rio Ave,32,31,25,7,True
+14288958,2026-01-25,Liga Portugal Betclic,CF Estrela Amadora,18,18,15,3,True
+14288966,2026-02-01,Liga Portugal Betclic,Tondela,30,30,24,6,True
+14288979,2026-02-08,Liga Portugal Betclic,FC Alverca,35,35,29,6,True
+14288997,2026-02-13,Liga Portugal Betclic,Santa Clara,20,19,11,9,True
+14289000,2026-02-21,Liga Portugal Betclic,AVS - Futebol SAD,25,25,22,3,True
+14336198,2026-05-16,Liga Portugal Betclic,Estoril Praia,35,35,19,16,True
+14348668,2025-08-20,"UEFA Champions League, Playoff Round",Fenerbahçe,23,0,9,14,False
+14348673,2025-08-27,"UEFA Champions League, Playoff Round",Fenerbahçe,21,0,15,6,False
+14566581,2025-09-30,UEFA Champions League,Chelsea,18,17,9,9,True
+14566735,2026-01-28,UEFA Champions League,Real Madrid,38,38,22,16,True
+14566736,2025-11-05,UEFA Champions League,Bayer 04 Leverkusen,28,28,21,7,True
+14566737,2025-12-10,UEFA Champions League,SSC Napoli,22,22,13,9,True
+14566738,2025-09-16,UEFA Champions League,Qarabağ FK,24,24,14,10,True
+14566765,2026-01-21,UEFA Champions League,Juventus,28,28,16,12,True
+14566874,2025-11-25,UEFA Champions League,AFC Ajax,18,18,11,7,True
+14566956,2025-10-21,UEFA Champions League,Newcastle United,26,26,7,19,True
+14773643,2025-10-17,Taça de Portugal,Chaves,20,0,10,10,False
+14886529,2025-10-29,Taca da Liga,Tondela,8,0,6,2,False
+14917422,2025-11-21,Taça de Portugal,Atletico CP,34,0,26,8,False
+15014414,2026-01-07,Taca da Liga,Sporting Braga,26,0,19,7,False
+15150335,2025-12-17,Taça de Portugal,SC Farense,22,0,13,9,False
+15267916,2026-01-14,Taça de Portugal,FC Porto,26,0,15,11,False
+15452742,2026-02-17,"UEFA Champions League, Knockout stage",Real Madrid,26,26,10,16,True
+15452752,2026-02-25,"UEFA Champions League, Knockout stage",Real Madrid,26,26,12,14,True

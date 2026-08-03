@@ -8,5 +8,7 @@ source("R/combine_match_context.R")
 source("R/calculate_shot_control.R")
 source("R/calculate_defensive_exposure.R")
 source("R/calculate_possession_efficiency.R")
+source("R/import_fbref_goals.R")
+source("R/import_fbref_player_season.R")
 
 message("Dados e métricas do FBref atualizados.")

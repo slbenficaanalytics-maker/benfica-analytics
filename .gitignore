@@ -3,3 +3,29 @@
 .RData
 .Rproj.user/
 /.quarto/
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Quarto — ficheiros temporários
+index_files/
+
+# Dados brutos automáticos e recriáveis
+data/sofascore/raw/
+data/fotmob/raw/
+data/kaggle/
+data/raw/*.json
+data/raw/sofascore_*
+data/raw/fotmob_*
+
+# Ficheiros de teste temporários
+R/test_api_football_2025_26.R
+
+# Testes temporários de extração
+data/raw/transfermarkt_benfica_2025_26_squad_test.csv

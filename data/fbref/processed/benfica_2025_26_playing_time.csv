@@ -1,0 +1,45 @@
+player,nation,pos,age,playing_time__mp,playing_time__min,playing_time__mn_mp,playing_time__min_percent,playing_time__x90s,playing_time__starts,playing_time__mn_start,playing_time__compl,playing_time__subs,playing_time__mn_sub,playing_time__un_sub,playing_time__ppm,playing_time__on_g,playing_time__on_ga,playing_time__x,playing_time__x90,playing_time__on_off,player_id
+Anatolii Trubin,ua UKR,GK,23,42,3780,90,95.5,42,42,90,42,0,NA,2,2.08,80,39,41,0.98,-1.02,41f0b196
+Samuel Dahl,se SWE,DF,22,42,3648,87,92.1,40.5,41,88,36,1,23,2,2.14,79,36,43,1.06,0.48,bbe7d20b
+Nicolás Otamendi,ar ARG,DF,37,40,3503,88,88.5,38.9,40,88,37,0,NA,1,2.14,75,33,42,1.08,0.49,0d267745
+Vangelis Pavlidis,gr GRE,FW,26,43,3468,81,87.6,38.5,39,87,21,4,21,1,2.15,72,34,38,0.99,-0.29,d578db11
+Fredrik Aursnes,no NOR,MF,29,38,3151,83,79.6,35,36,87,27,2,14,0,2.1,66,31,35,1,-0.11,f0677ed7
+Richard Ríos,co COL,MF,25,35,2897,83,73.2,32.2,33,87,22,2,20,0,2.1,64,24,40,1.24,0.82,72da065d
+Amar Dedić,ba BIH,DF,22,34,2705,80,68.3,30.1,30,87,25,4,24,2,2.04,52,30,22,0.73,-0.92,bc6e544a
+Leandro Barreiro Martins,lu LUX,MF,25,40,2384,60,60.2,26.5,25,84,12,15,19,2,2.15,49,27,22,0.83,-0.48,00242b75
+Enzo Barrenechea,ar ARG,MF,24,35,2370,68,59.8,26.3,27,83,17,8,16,5,2.09,46,22,24,0.91,-0.28,6caffe81
+Tomás Araújo,pt POR,DF,23,32,2342,73,59.1,26,26,86,23,6,16,7,2.06,52,26,26,1,-0.06,0fa11d7d
+António Silva,pt POR,DF,21,31,2220,72,56.1,24.7,24,89,22,7,14,11,2.14,43,24,19,0.77,-0.57,8f0435c7
+Andreas Schjelderup,no NOR,MF,21,35,2142,61,54.1,23.8,25,76,3,10,25,9,2.24,51,22,29,1.22,0.43,a427724f
+Heorhiy Sudakov,ua UKR,MFFW,22,31,2057,66,51.9,22.9,25,78,3,6,17,8,1.9,42,21,21,0.92,-0.22,a793f5a8
+Gianluca Prestianni,ar ARG,MF,19,34,1824,54,46.1,20.3,20,74,1,14,25,4,2.22,41,21,20,0.99,-0.07,d203fb17
+Rafa Silva,pt POR,MF,32,18,1080,60,27.3,12,13,77,3,5,16,0,2.12,23,12,11,0.92,-0.15,70cf63ca
+Franjo Ivanović,hr CRO,FW,21,32,1043,33,26.3,11.6,10,73,0,22,14,11,2.1,24,8,16,1.38,0.49,7e3ea311
+Dodi Lukebakio,be BEL,MFFW,27,21,1013,48,25.6,11.3,11,76,2,10,18,3,1.85,19,12,7,0.62,-0.54,0c61c77c
+Alexander Bah,dk DEN,DFMF,27,9,472,52,11.9,5.2,6,73,1,3,12,5,2.33,14,4,10,1.91,0.55,78f21137
+Sidny Lopes Cabral,cv CPV,DFMF,22,10,372,37,9.4,4.1,3,84,2,7,17,3,2.2,9,1,8,1.94,1.01,20700569
+Samuel Soares,pt POR,GK,23,2,180,90,4.5,2,2,90,2,0,NA,30,3,5,1,4,2,0.59,244ff834
+Daniel Banjaqui,pt POR,DF,17,2,152,76,3.8,1.7,2,76,1,0,NA,5,2,4,0,4,2.37,0.98,02546e9e
+Manuel Manu,pt POR,MF,24,10,127,13,3.2,1.4,1,90,1,9,4,14,2.8,4,2,2,1.42,0.41,4c2a65a8
+Rodrigo Rego,pt POR,FW,20,4,113,28,2.9,1.3,1,57,0,3,19,4,3,3,0,3,2.39,1.41,4a04b70b
+José Neto,pt POR,DF,17,3,96,32,2.4,1.1,1,90,1,2,3,6,3,3,0,3,2.81,1.83,ef553796
+João Rêgo,pt POR,MF,20,10,83,8,2.1,0.9,0,NA,0,10,8,11,2.3,3,1,2,2.17,1.17,24c4694a
+Rafel Obrador,es ESP,DF,21,1,67,67,1.7,0.7,1,67,0,0,NA,15,3,2,0,2,2.69,1.27,949c3655
+Anísio Cabral,pt POR,FW,17,6,49,8,1.2,0.5,0,NA,0,6,8,8,2.33,3,0,3,5.51,4.14,04d9d513
+Florentino Luís,pt POR,MF,25,3,38,13,1.2,0.4,0,NA,0,3,13,0,3,1,1,0,0,-1.46,881cd6be
+Henrique Araújo,pt POR,FW,23,7,36,5,0.9,0.4,0,NA,0,7,5,9,1.71,0,2,-2,-5,-6.08,353eb529
+Diogo Prioste,pt POR,MF,21,2,24,12,0.6,0.3,0,NA,0,2,12,8,3,1,0,1,3.75,2.33,840ceefa
+Kerem Aktürkoğlu,tr TUR,FWMF,26,1,24,24,0.8,0.3,0,NA,0,1,24,1,3,1,0,1,3.75,2.33,f28659fb
+Bruma,pt POR,FWMF,30,3,22,7,0.6,0.2,0,NA,0,3,7,7,2.33,1,1,0,0,-1.45,5caa62a7
+Ivan Lima,pt POR,FW,20,1,14,14,0.4,0.2,0,NA,0,1,14,2,3,1,0,1,6.43,5.01,8d429bba
+João Veloso,pt POR,MF,20,2,2,1,0.1,0,0,NA,0,2,1,10,3,0,0,0,0,-1.44,351a04b5
+Tiago Freitas,pt POR,MF,18,1,1,1,0,0,0,NA,0,1,1,2,3,0,0,0,0,0.4,f115bad3
+Gonçalo Moreira,pt POR,FW,19,1,1,1,0,0,0,NA,0,1,1,1,3,0,0,0,0,-1.44,70c9e842
+Tiago Gouveia,pt POR,MF,24,1,1,1,0,0,0,NA,0,1,1,1,3,0,0,0,0,-1.44,68cf59f0
+Joshua Wynder,us USA,DF,20,0,NA,NA,NA,NA,0,NA,0,0,NA,6,NA,NA,NA,NA,NA,NA,48f46d3e
+Leandro Santos,pt POR,DF,19,0,NA,NA,NA,NA,0,NA,0,0,NA,3,NA,NA,NA,NA,NA,NA,6ef8177e
+Diogo Ferreira,pt POR,GK,18,0,NA,NA,NA,NA,0,NA,0,0,NA,13,NA,NA,NA,NA,NA,NA,d5ec6895
+Gonçalo Oliveira,pt POR,DF,19,0,NA,NA,NA,NA,0,NA,0,0,NA,13,NA,NA,NA,NA,NA,NA,9fdd416e
+Arnas Voitinovičius,lt LTU,GK,18,0,NA,NA,NA,NA,0,NA,0,0,NA,1,NA,NA,NA,NA,NA,NA,0ab7cfdf
+Kevin Philip Anjos Pinto,pt POR,DF,18,0,NA,NA,NA,NA,0,NA,0,0,NA,1,NA,NA,NA,NA,NA,NA,688f6322
+Miguel Figueiredo,pt POR,MF,16,0,NA,NA,NA,NA,0,NA,0,0,NA,1,NA,NA,NA,NA,NA,NA,5db829a3

@@ -1,0 +1,35 @@
+benfica_match_id,date,season,competition,venue,opponent_key,opponent,home_team,away_team,round,home_goals,away_goals,result_home,sofascore_event_id,fotmob_match_id,football_data_row_id,benfica_goals,opponent_goals,result
+SLB_20250816_A_ESTRELAAMADORA,2025-08-16,2025/26,Liga Portugal,Away,estrelaamadora,CF Estrela Amadora,CF Estrela Amadora,Benfica,2.0,0,1,A,14131876,4844178,11,1,0,W
+SLB_20250823_H_TONDELA,2025-08-23,2025/26,Liga Portugal,Home,tondela,Tondela,Benfica,Tondela,3.0,3,0,H,14131880,4844182,20,3,0,W
+SLB_20250831_A_ALVERCA,2025-08-31,2025/26,Liga Portugal,Away,alverca,FC Alverca,FC Alverca,Benfica,4.0,1,2,A,14131888,4844190,31,2,1,W
+SLB_20250912_H_SANTACLARA,2025-09-12,2025/26,Liga Portugal,Home,santaclara,Santa Clara,Benfica,Santa Clara,5.0,1,1,D,14131901,4844203,36,1,1,D
+SLB_20250920_A_AVSFUTEBOLSAD,2025-09-20,2025/26,Liga Portugal,Away,avsfutebolsad,AVS - Futebol SAD,AVS - Futebol SAD,Benfica,6.0,0,3,A,14131904,4844206,47,3,0,W
+SLB_20250923_H_RIOAVE,2025-09-23,2025/26,Liga Portugal,Home,rioave,Rio Ave,Benfica,Rio Ave,1.0,1,1,D,14131859,4844163,53,1,1,D
+SLB_20250926_H_GILVICENTE,2025-09-26,2025/26,Liga Portugal,Home,gilvicente,Gil Vicente,Benfica,Gil Vicente,7.0,2,1,H,14131920,4844221,54,2,1,W
+SLB_20251005_A_FCPORTO,2025-10-05,2025/26,Liga Portugal,Away,fcporto,FC Porto,FC Porto,Benfica,8.0,0,0,D,14131931,4844232,71,0,0,D
+SLB_20251025_H_AROUCA,2025-10-25,2025/26,Liga Portugal,Home,arouca,FC Arouca,Benfica,FC Arouca,9.0,5,0,H,14131939,4844240,74,5,0,W
+SLB_20251101_A_VITORIAGUIMARAES,2025-11-01,2025/26,Liga Portugal,Away,vitoriaguimaraes,Vitória SC,Vitória SC,Benfica,10.0,0,3,A,14131949,4844250,85,3,0,W
+SLB_20251109_H_CASAPIA,2025-11-09,2025/26,Liga Portugal,Home,casapia,Casa Pia,Benfica,Casa Pia,11.0,2,2,D,14131956,4844257,97,2,2,D
+SLB_20251129_A_NACIONAL,2025-11-29,2025/26,Liga Portugal,Away,nacional,CD Nacional,CD Nacional,Benfica,12.0,1,2,A,14131968,4844268,102,2,1,W
+SLB_20251205_H_SPORTINGCP,2025-12-05,2025/26,Liga Portugal,Home,sportingcp,Sporting CP,Benfica,Sporting CP,13.0,1,1,D,14131973,4844273,108,1,1,D
+SLB_20251214_A_MOREIRENSE,2025-12-14,2025/26,Liga Portugal,Away,moreirense,Moreirense,Moreirense,Benfica,14.0,0,4,A,14131986,4844285,121,4,0,W
+SLB_20251222_H_FAMALICAO,2025-12-22,2025/26,Liga Portugal,Home,famalicao,Famalicão,Benfica,Famalicão,15.0,1,0,H,14288840,4844291,133,1,0,W
+SLB_20251228_A_BRAGA,2025-12-28,2025/26,Liga Portugal,Away,braga,Sporting Braga,Sporting Braga,Benfica,16.0,2,2,D,14288915,4844304,139,2,2,D
+SLB_20260103_H_ESTORIL,2026-01-03,2025/26,Liga Portugal,Home,estoril,Estoril Praia,Benfica,Estoril Praia,17.0,3,1,H,14288921,4844309,145,3,1,W
+SLB_20260117_A_RIOAVE,2026-01-17,2025/26,Liga Portugal,Away,rioave,Rio Ave,Rio Ave,Benfica,18.0,0,2,A,14288934,4844316,157,2,0,W
+SLB_20260125_H_ESTRELAAMADORA,2026-01-25,2025/26,Liga Portugal,Home,estrelaamadora,CF Estrela Amadora,Benfica,CF Estrela Amadora,19.0,4,0,H,14288958,4844331,167,4,0,W
+SLB_20260201_A_TONDELA,2026-02-01,2025/26,Liga Portugal,Away,tondela,Tondela,Tondela,Benfica,20.0,0,0,D,14288966,4844335,177,0,0,D
+SLB_20260208_H_ALVERCA,2026-02-08,2025/26,Liga Portugal,Home,alverca,FC Alverca,Benfica,FC Alverca,21.0,2,1,H,14288979,4844343,186,2,1,W
+SLB_20260213_A_SANTACLARA,2026-02-13,2025/26,Liga Portugal,Away,santaclara,Santa Clara,Santa Clara,Benfica,22.0,1,2,A,14288997,4844356,189,2,1,W
+SLB_20260221_H_AVSFUTEBOLSAD,2026-02-21,2025/26,Liga Portugal,Home,avsfutebolsad,AVS - Futebol SAD,Benfica,AVS - Futebol SAD,23.0,3,0,H,14289000,4844359,201,3,0,W
+SLB_20260302_A_GILVICENTE,2026-03-02,2025/26,Liga Portugal,Away,gilvicente,Gil Vicente,Gil Vicente,Benfica,24.0,1,2,A,14288810,4844374,215,2,1,W
+SLB_20260308_H_FCPORTO,2026-03-08,2025/26,Liga Portugal,Home,fcporto,FC Porto,Benfica,FC Porto,25.0,2,2,D,14288822,4844385,222,2,2,D
+SLB_20260314_A_AROUCA,2026-03-14,2025/26,Liga Portugal,Away,arouca,FC Arouca,FC Arouca,Benfica,26.0,1,2,A,14288830,4844393,227,2,1,W
+SLB_20260321_H_VITORIAGUIMARAES,2026-03-21,2025/26,Liga Portugal,Home,vitoriaguimaraes,Vitória SC,Benfica,Vitória SC,27.0,3,0,H,14288841,4844403,235,3,0,W
+SLB_20260406_A_CASAPIA,2026-04-06,2025/26,Liga Portugal,Away,casapia,Casa Pia,Casa Pia,Benfica,28.0,1,1,D,14288848,4844410,249,1,1,D
+SLB_20260412_H_NACIONAL,2026-04-12,2025/26,Liga Portugal,Home,nacional,CD Nacional,Benfica,CD Nacional,29.0,2,0,H,14288859,4844421,255,2,0,W
+SLB_20260419_A_SPORTINGCP,2026-04-19,2025/26,Liga Portugal,Away,sportingcp,Sporting CP,Sporting CP,Benfica,30.0,1,2,A,14288865,4844426,264,2,1,W
+SLB_20260425_H_MOREIRENSE,2026-04-25,2025/26,Liga Portugal,Home,moreirense,Moreirense,Benfica,Moreirense,31.0,4,1,H,14288877,4844438,271,4,1,W
+SLB_20260502_A_FAMALICAO,2026-05-02,2025/26,Liga Portugal,Away,famalicao,Famalicão,Famalicão,Benfica,32.0,2,2,D,14288883,4844444,282,2,2,D
+SLB_20260511_H_BRAGA,2026-05-11,2025/26,Liga Portugal,Home,braga,Sporting Braga,Benfica,Sporting Braga,33.0,2,2,D,14288898,4844457,290,2,2,D
+SLB_20260516_A_ESTORIL,2026-05-16,2025/26,Liga Portugal,Away,estoril,Estoril Praia,Estoril Praia,Benfica,34.0,1,3,A,14336198,4844462,303,3,1,W

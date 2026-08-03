@@ -1,0 +1,35 @@
+sofascore_event_id,date,round_sofascore,venue,opponent_sofascore,opponent_key,home_team_sofascore,away_team_sofascore,fotmob_match_id,round_fotmob,opponent_fotmob,home_team_fotmob,away_team_fotmob,_merge,match_key
+14131876,2025-08-16,2.0,Away,CF Estrela Amadora,estrelaamadora,CF Estrela Amadora,Benfica,4844178,2,Estrela da Amadora,Estrela da Amadora,Benfica,both,2025-08-16__away__estrelaamadora
+14131880,2025-08-23,3.0,Home,Tondela,tondela,Benfica,Tondela,4844182,3,Tondela,Benfica,Tondela,both,2025-08-23__home__tondela
+14131888,2025-08-31,4.0,Away,FC Alverca,alverca,FC Alverca,Benfica,4844190,4,Alverca,Alverca,Benfica,both,2025-08-31__away__alverca
+14131901,2025-09-12,5.0,Home,Santa Clara,santaclara,Benfica,Santa Clara,4844203,5,Santa Clara,Benfica,Santa Clara,both,2025-09-12__home__santaclara
+14131904,2025-09-20,6.0,Away,AVS - Futebol SAD,avsfutebolsad,AVS - Futebol SAD,Benfica,4844206,6,AVS Futebol SAD,AVS Futebol SAD,Benfica,both,2025-09-20__away__avsfutebolsad
+14131859,2025-09-23,1.0,Home,Rio Ave,rioave,Benfica,Rio Ave,4844163,1,Rio Ave,Benfica,Rio Ave,both,2025-09-23__home__rioave
+14131920,2025-09-26,7.0,Home,Gil Vicente,gilvicente,Benfica,Gil Vicente,4844221,7,Gil Vicente,Benfica,Gil Vicente,both,2025-09-26__home__gilvicente
+14131931,2025-10-05,8.0,Away,FC Porto,fcporto,FC Porto,Benfica,4844232,8,FC Porto,FC Porto,Benfica,both,2025-10-05__away__fcporto
+14131939,2025-10-25,9.0,Home,FC Arouca,arouca,Benfica,FC Arouca,4844240,9,Arouca,Benfica,Arouca,both,2025-10-25__home__arouca
+14131949,2025-11-01,10.0,Away,Vitória SC,vitoriaguimaraes,Vitória SC,Benfica,4844250,10,Vitoria de Guimaraes,Vitoria de Guimaraes,Benfica,both,2025-11-01__away__vitoriaguimaraes
+14131956,2025-11-09,11.0,Home,Casa Pia,casapia,Benfica,Casa Pia,4844257,11,Casa Pia AC,Benfica,Casa Pia AC,both,2025-11-09__home__casapia
+14131968,2025-11-29,12.0,Away,CD Nacional,nacional,CD Nacional,Benfica,4844268,12,Nacional,Nacional,Benfica,both,2025-11-29__away__nacional
+14131973,2025-12-05,13.0,Home,Sporting CP,sportingcp,Benfica,Sporting CP,4844273,13,Sporting CP,Benfica,Sporting CP,both,2025-12-05__home__sportingcp
+14131986,2025-12-14,14.0,Away,Moreirense,moreirense,Moreirense,Benfica,4844285,14,Moreirense,Moreirense,Benfica,both,2025-12-14__away__moreirense
+14288840,2025-12-22,15.0,Home,Famalicão,famalicao,Benfica,Famalicão,4844291,15,Famalicao,Benfica,Famalicao,both,2025-12-22__home__famalicao
+14288915,2025-12-28,16.0,Away,Sporting Braga,braga,Sporting Braga,Benfica,4844304,16,Braga,Braga,Benfica,both,2025-12-28__away__braga
+14288921,2026-01-03,17.0,Home,Estoril Praia,estoril,Benfica,Estoril Praia,4844309,17,Estoril,Benfica,Estoril,both,2026-01-03__home__estoril
+14288934,2026-01-17,18.0,Away,Rio Ave,rioave,Rio Ave,Benfica,4844316,18,Rio Ave,Rio Ave,Benfica,both,2026-01-17__away__rioave
+14288958,2026-01-25,19.0,Home,CF Estrela Amadora,estrelaamadora,Benfica,CF Estrela Amadora,4844331,19,Estrela da Amadora,Benfica,Estrela da Amadora,both,2026-01-25__home__estrelaamadora
+14288966,2026-02-01,20.0,Away,Tondela,tondela,Tondela,Benfica,4844335,20,Tondela,Tondela,Benfica,both,2026-02-01__away__tondela
+14288979,2026-02-08,21.0,Home,FC Alverca,alverca,Benfica,FC Alverca,4844343,21,Alverca,Benfica,Alverca,both,2026-02-08__home__alverca
+14288997,2026-02-13,22.0,Away,Santa Clara,santaclara,Santa Clara,Benfica,4844356,22,Santa Clara,Santa Clara,Benfica,both,2026-02-13__away__santaclara
+14289000,2026-02-21,23.0,Home,AVS - Futebol SAD,avsfutebolsad,Benfica,AVS - Futebol SAD,4844359,23,AVS Futebol SAD,Benfica,AVS Futebol SAD,both,2026-02-21__home__avsfutebolsad
+14288810,2026-03-02,24.0,Away,Gil Vicente,gilvicente,Gil Vicente,Benfica,4844374,24,Gil Vicente,Gil Vicente,Benfica,both,2026-03-02__away__gilvicente
+14288822,2026-03-08,25.0,Home,FC Porto,fcporto,Benfica,FC Porto,4844385,25,FC Porto,Benfica,FC Porto,both,2026-03-08__home__fcporto
+14288830,2026-03-14,26.0,Away,FC Arouca,arouca,FC Arouca,Benfica,4844393,26,Arouca,Arouca,Benfica,both,2026-03-14__away__arouca
+14288841,2026-03-21,27.0,Home,Vitória SC,vitoriaguimaraes,Benfica,Vitória SC,4844403,27,Vitoria de Guimaraes,Benfica,Vitoria de Guimaraes,both,2026-03-21__home__vitoriaguimaraes
+14288848,2026-04-06,28.0,Away,Casa Pia,casapia,Casa Pia,Benfica,4844410,28,Casa Pia AC,Casa Pia AC,Benfica,both,2026-04-06__away__casapia
+14288859,2026-04-12,29.0,Home,CD Nacional,nacional,Benfica,CD Nacional,4844421,29,Nacional,Benfica,Nacional,both,2026-04-12__home__nacional
+14288865,2026-04-19,30.0,Away,Sporting CP,sportingcp,Sporting CP,Benfica,4844426,30,Sporting CP,Sporting CP,Benfica,both,2026-04-19__away__sportingcp
+14288877,2026-04-25,31.0,Home,Moreirense,moreirense,Benfica,Moreirense,4844438,31,Moreirense,Benfica,Moreirense,both,2026-04-25__home__moreirense
+14288883,2026-05-02,32.0,Away,Famalicão,famalicao,Famalicão,Benfica,4844444,32,Famalicao,Famalicao,Benfica,both,2026-05-02__away__famalicao
+14288898,2026-05-11,33.0,Home,Sporting Braga,braga,Benfica,Sporting Braga,4844457,33,Braga,Benfica,Braga,both,2026-05-11__home__braga
+14336198,2026-05-16,34.0,Away,Estoril Praia,estoril,Estoril Praia,Benfica,4844462,34,Estoril,Estoril,Benfica,both,2026-05-16__away__estoril

@@ -1,0 +1,53 @@
+group,metric
+Attack,Big chances missed
+Attack,Big chances scored
+Attack,Fouled in final third
+Attack,Offsides
+Attack,Through balls
+Attack,Touches in penalty area
+Defending,Clearances
+Defending,Errors lead to a goal
+Defending,Errors lead to a shot
+Defending,Interceptions
+Defending,Recoveries
+Defending,Tackles won
+Defending,Total tackles
+Duels,Aerial duels
+Duels,Dispossessed
+Duels,Dribbles
+Duels,Duels
+Duels,Ground duels
+Goalkeeping,Big saves
+Goalkeeping,Goal kicks
+Goalkeeping,Goals prevented
+Goalkeeping,High claims
+Goalkeeping,Penalty saves
+Goalkeeping,Punches
+Goalkeeping,Total saves
+Match overview,Ball possession
+Match overview,Big chances
+Match overview,Corner kicks
+Match overview,Distance covered
+Match overview,Expected goals
+Match overview,Fouls
+Match overview,Free kicks
+Match overview,Goalkeeper saves
+Match overview,Number of sprints
+Match overview,Passes
+Match overview,Red cards
+Match overview,Tackles
+Match overview,Total shots
+Match overview,Yellow cards
+Passes,Accurate passes
+Passes,Crosses
+Passes,Final third entries
+Passes,Final third phase
+Passes,Long balls
+Passes,Throw-ins
+Shots,Blocked shots
+Shots,Hit woodwork
+Shots,Shots inside box
+Shots,Shots off target
+Shots,Shots on target
+Shots,Shots outside box
+Shots,Total shots

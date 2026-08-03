@@ -1,0 +1,35 @@
+event_id,date,opponent_sofa,opponent_key,venue,sofascore_possession,sofascore_shots,sofascore_shots_on_target,sofascore_xg,match_id,opponent_fotmob,fotmob_possession,fotmob_shots,fotmob_shots_on_target,fotmob_xg,difference_possession,difference_shots,difference_shots_on_target,difference_xg
+14131876,2025-08-16,CF Estrela Amadora,estrelaamadora,Away,57,14,3,2.41,4844178,Estrela da Amadora,57,14,3,2.41,0,0,0,0.0
+14131880,2025-08-23,Tondela,tondela,Home,66,21,12,2.96,4844182,Tondela,66,21,12,2.96,0,0,0,0.0
+14131888,2025-08-31,FC Alverca,alverca,Away,53,6,2,1.03,4844190,Alverca,53,6,2,1.03,0,0,0,0.0
+14131901,2025-09-12,Santa Clara,santaclara,Home,78,19,7,1.62,4844203,Santa Clara,78,19,7,1.62,0,0,0,0.0
+14131904,2025-09-20,AVS - Futebol SAD,avsfutebolsad,Away,63,19,6,2.4,4844206,AVS Futebol SAD,63,19,6,2.4,0,0,0,0.0
+14131859,2025-09-23,Rio Ave,rioave,Home,69,19,7,2.57,4844163,Rio Ave,69,19,7,2.57,0,0,0,0.0
+14131920,2025-09-26,Gil Vicente,gilvicente,Home,47,10,4,1.27,4844221,Gil Vicente,47,10,4,1.27,0,0,0,0.0
+14131931,2025-10-05,FC Porto,fcporto,Away,49,4,1,0.12,4844232,FC Porto,49,4,1,0.12,0,0,0,0.0
+14131939,2025-10-25,FC Arouca,arouca,Home,53,17,8,3.84,4844240,Arouca,53,17,8,3.84,0,0,0,0.0
+14131949,2025-11-01,Vitória SC,vitoriaguimaraes,Away,66,24,10,2.13,4844250,Vitoria de Guimaraes,66,24,10,2.13,0,0,0,0.0
+14131956,2025-11-09,Casa Pia,casapia,Home,66,19,6,2.22,4844257,Casa Pia AC,66,19,6,2.22,0,0,0,0.0
+14131968,2025-11-29,CD Nacional,nacional,Away,70,30,8,2.4,4844268,Nacional,70,30,8,2.4,0,0,0,0.0
+14131973,2025-12-05,Sporting CP,sportingcp,Home,41,10,4,0.92,4844273,Sporting CP,41,10,4,0.92,0,0,0,0.0
+14131986,2025-12-14,Moreirense,moreirense,Away,47,10,5,1.0,4844285,Moreirense,47,10,5,1.0,0,0,0,0.0
+14288840,2025-12-22,Famalicão,famalicao,Home,55,10,6,1.28,4844291,Famalicao,55,10,6,1.28,0,0,0,0.0
+14288915,2025-12-28,Sporting Braga,braga,Away,51,14,6,1.23,4844304,Braga,51,14,6,1.23,0,0,0,0.0
+14288921,2026-01-03,Estoril Praia,estoril,Home,51,20,3,2.27,4844309,Estoril,51,20,3,2.27,0,0,0,0.0
+14288934,2026-01-17,Rio Ave,rioave,Away,63,24,8,1.78,4844316,Rio Ave,63,24,8,1.78,0,0,0,0.0
+14288958,2026-01-25,CF Estrela Amadora,estrelaamadora,Home,66,15,8,2.53,4844331,Estrela da Amadora,66,15,8,2.53,0,0,0,0.0
+14288966,2026-02-01,Tondela,tondela,Away,77,24,8,2.1,4844335,Tondela,77,24,8,2.1,0,0,0,0.0
+14288979,2026-02-08,FC Alverca,alverca,Home,63,29,10,1.97,4844343,Alverca,63,29,10,1.97,0,0,0,0.0
+14288997,2026-02-13,Santa Clara,santaclara,Away,47,10,3,1.19,4844356,Santa Clara,47,10,3,1.19,0,0,0,0.0
+14289000,2026-02-21,AVS - Futebol SAD,avsfutebolsad,Home,65,22,9,3.69,4844359,AVS Futebol SAD,65,22,9,3.69,0,0,0,0.0
+14288810,2026-03-02,Gil Vicente,gilvicente,Away,51,10,3,0.75,4844374,Gil Vicente,51,10,3,0.75,0,0,0,0.0
+14288822,2026-03-08,FC Porto,fcporto,Home,60,20,6,1.23,4844385,FC Porto,60,20,6,1.23,0,0,0,0.0
+14288830,2026-03-14,FC Arouca,arouca,Away,61,22,5,2.1,4844393,Arouca,61,22,5,2.1,0,0,0,0.0
+14288841,2026-03-21,Vitória SC,vitoriaguimaraes,Home,49,12,4,2.34,4844403,Vitoria de Guimaraes,49,12,4,2.34,0,0,0,0.0
+14288848,2026-04-06,Casa Pia,casapia,Away,79,18,3,1.93,4844410,Casa Pia AC,79,18,3,1.93,0,0,0,0.0
+14288859,2026-04-12,CD Nacional,nacional,Home,58,24,8,3.43,4844421,Nacional,58,24,8,3.43,0,0,0,0.0
+14288865,2026-04-19,Sporting CP,sportingcp,Away,39,14,5,2.27,4844426,Sporting CP,39,14,5,2.27,0,0,0,0.0
+14288877,2026-04-25,Moreirense,moreirense,Home,58,17,8,1.99,4844438,Moreirense,58,17,8,1.99,0,0,0,0.0
+14288883,2026-05-02,Famalicão,famalicao,Away,43,8,3,1.29,4844444,Famalicao,43,8,3,1.29,0,0,0,0.0
+14288898,2026-05-11,Sporting Braga,braga,Home,52,24,8,2.91,4844457,Braga,52,24,8,2.91,0,0,0,0.0
+14336198,2026-05-16,Estoril Praia,estoril,Away,52,19,8,4.15,4844462,Estoril,52,19,8,4.15,0,0,0,0.0

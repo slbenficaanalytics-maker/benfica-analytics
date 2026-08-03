@@ -1,0 +1,41 @@
+goal_type,date,comp,round,venue,scorer,opponent,starter,minute_text,minute_base,added_time,match_minute,score,score_before_home,score_before_away,goalkeeper,assist,notes
+Against,2025-08-31,Primeira Liga,Matchweek 4,Away,Davy Gui,Alverca,FALSE,85,85,0,85,0-2,0,2,Samuel Soares,NA,NA
+Against,2025-09-12,Primeira Liga,Matchweek 5,Home,Vinícius,Santa Clara,FALSE,90+2,90,2,92,0-1,0,1,Anatolii Trubin,Anthony Carter,NA
+Against,2025-09-16,Champions Lg,League phase,Home,Leandro Andrade,Qarabağ,TRUE,30,30,0,30,0-2,0,2,Anatolii Trubin,Camilo Marques,NA
+Against,2025-09-16,Champions Lg,League phase,Home,Camilo Marques,Qarabağ,TRUE,48,48,0,48,1-2,1,2,Anatolii Trubin,Marko Janković,NA
+Against,2025-09-16,Champions Lg,League phase,Home,Oleksii Kashchuk,Qarabağ,FALSE,86,86,0,86,2-2,2,2,Anatolii Trubin,Abdellah Zoubir,NA
+Against,2025-09-23,Primeira Liga,Matchweek 1,Home,André Inácio,Rio Ave,FALSE,90+1,90,1,91,0-1,0,1,Anatolii Trubin,Tamás Nikitscher,NA
+Against,2025-09-26,Primeira Liga,Matchweek 7,Home,Luís Esteves,Gil Vicente FC,TRUE,11,11,0,11,0-0,0,0,Anatolii Trubin,NA,NA
+Against,2025-09-30,Champions Lg,League phase,Away,Richard Ríos (OG),Chelsea,TRUE,18,18,0,18,0-0,0,0,Anatolii Trubin,NA,Own Goal
+Against,2025-10-21,Champions Lg,League phase,Away,Anthony Gordon,Newcastle,TRUE,32,32,0,32,0-0,0,0,Anatolii Trubin,Jacob Murphy,NA
+Against,2025-10-21,Champions Lg,League phase,Away,Harvey Barnes,Newcastle,FALSE,70,70,0,70,1-0,1,0,Anatolii Trubin,Nick Pope,NA
+Against,2025-10-21,Champions Lg,League phase,Away,Harvey Barnes,Newcastle,FALSE,83,83,0,83,2-0,2,0,Anatolii Trubin,Anthony Gordon,NA
+Against,2025-11-05,Champions Lg,League phase,Home,Patrik Schick,Leverkusen,FALSE,65,65,0,65,0-0,0,0,Anatolii Trubin,NA,NA
+Against,2025-11-09,Primeira Liga,Matchweek 11,Home,Tomás Araújo (OG),Casa Pia,TRUE,65,65,0,65,0-2,0,2,Anatolii Trubin,NA,Own Goal
+Against,2025-11-09,Primeira Liga,Matchweek 11,Home,Renato Nhaga,Casa Pia,FALSE,90+1,90,1,91,1-2,1,2,Anatolii Trubin,NA,NA
+Against,2025-11-29,Primeira Liga,Matchweek 12,Away,Jesús Ramírez,Nacional,TRUE,60,60,0,60,0-0,0,0,Anatolii Trubin,Paulinho Bóia,NA
+Against,2025-12-05,Primeira Liga,Matchweek 13,Home,Pedro Gonçalves,Sporting CP,TRUE,12,12,0,12,0-0,0,0,Anatolii Trubin,Morten Hjulmand,NA
+Against,2025-12-28,Primeira Liga,Matchweek 16,Away,Rodrigo Zalazar,Braga,TRUE,38,38,0,38,0-1,0,1,Anatolii Trubin,NA,NA
+Against,2025-12-28,Primeira Liga,Matchweek 16,Away,Pau Victor,Braga,TRUE,45+1,45,1,46,1-1,1,1,Anatolii Trubin,NA,NA
+Against,2026-01-03,Primeira Liga,Matchweek 17,Home,João Carvalho,Estoril,TRUE,45+3,45,3,48,0-2,0,2,Anatolii Trubin,Rafik Guitane,NA
+Against,2026-01-21,Champions Lg,League phase,Away,Khéphren Thuram,Juventus,TRUE,55,55,0,55,0-0,0,0,Anatolii Trubin,NA,NA
+Against,2026-01-21,Champions Lg,League phase,Away,Weston McKennie,Juventus,TRUE,64,64,0,64,1-0,1,0,Anatolii Trubin,Jonathan David,NA
+Against,2026-01-28,Champions Lg,League phase,Home,Kylian Mbappé,Real Madrid,TRUE,30,30,0,30,0-0,0,0,Anatolii Trubin,Raúl Asencio,NA
+Against,2026-01-28,Champions Lg,League phase,Home,Kylian Mbappé,Real Madrid,TRUE,58,58,0,58,1-3,1,3,Anatolii Trubin,Arda Güler,NA
+Against,2026-02-08,Primeira Liga,Matchweek 21,Home,Figueiredo,Alverca,TRUE,30,30,0,30,0-1,0,1,Anatolii Trubin,Marko Milovanović,NA
+Against,2026-02-13,Primeira Liga,Matchweek 22,Away,Gonçalo Paciência,Santa Clara,TRUE,47,47,0,47,0-2,0,2,Anatolii Trubin,Gustavo Klismahn,NA
+Against,2026-02-17,Champions Lg,Knockout phase play-offs,Home,Vinicius Júnior,Real Madrid,TRUE,50,50,0,50,0-0,0,0,Anatolii Trubin,Kylian Mbappé,NA
+Against,2026-02-25,Champions Lg,Knockout phase play-offs,Away,Aurélien Tchouaméni,Real Madrid,TRUE,16,16,0,16,0-1,0,1,Anatolii Trubin,Federico Valverde,NA
+Against,2026-02-25,Champions Lg,Knockout phase play-offs,Away,Vinicius Júnior,Real Madrid,TRUE,80,80,0,80,1-1,1,1,Anatolii Trubin,Federico Valverde,NA
+Against,2026-03-02,Primeira Liga,Matchweek 24,Away,Héctor,Gil Vicente FC,TRUE,51,51,0,51,0-1,0,1,Anatolii Trubin,Santiago García,NA
+Against,2026-03-08,Primeira Liga,Matchweek 25,Home,Victor Froholdt,Porto,TRUE,10,10,0,10,0-0,0,0,Anatolii Trubin,NA,NA
+Against,2026-03-08,Primeira Liga,Matchweek 25,Home,Oskar Pietuszewski,Porto,TRUE,40,40,0,40,1-0,1,0,Anatolii Trubin,Gabriel Veiga,NA
+Against,2026-03-14,Primeira Liga,Matchweek 26,Away,Barbero,Arouca,TRUE,7,7,0,7,0-0,0,0,Anatolii Trubin,NA,NA
+Against,2026-04-06,Primeira Liga,Matchweek 28,Away,Rafael Brito,Casa Pia,TRUE,78,78,0,78,0-1,0,1,Anatolii Trubin,NA,NA
+Against,2026-04-19,Primeira Liga,Matchweek 30,Away,Hidemasa Morita,Sporting CP,TRUE,72,72,0,72,0-1,0,1,Anatolii Trubin,Zeno Debast,NA
+Against,2026-04-25,Primeira Liga,Matchweek 31,Home,Diogo Travassos,Moreirense,TRUE,26,26,0,26,0-1,0,1,Anatolii Trubin,André Ferreira,NA
+Against,2026-05-02,Primeira Liga,Matchweek 32,Away,Mathias De Amorim,Famalicão,TRUE,67,67,0,67,0-2,0,2,Anatolii Trubin,Leonardo Realpe,NA
+Against,2026-05-02,Primeira Liga,Matchweek 32,Away,Umar Abubakar,Famalicão,FALSE,78,78,0,78,1-2,1,2,Anatolii Trubin,Mathias De Amorim,NA
+Against,2026-05-11,Primeira Liga,Matchweek 33,Home,Pau Victor,Braga,TRUE,48,48,0,48,0-1,0,1,Anatolii Trubin,Victor Gomez,NA
+Against,2026-05-11,Primeira Liga,Matchweek 33,Home,Jean Gorby,Braga,TRUE,88,88,0,88,1-1,1,1,Anatolii Trubin,Mario Dorgelès,NA
+Against,2026-05-16,Primeira Liga,Matchweek 34,Away,Andre Neves,Estoril,FALSE,90+1,90,1,91,0-3,0,3,Anatolii Trubin,Kévin Boma,NA

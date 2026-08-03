@@ -1,0 +1,53 @@
+group,metric,games_available,rows,coverage_percent
+Attack,Fouled in final third,54,54,100.0
+Attack,Touches in penalty area,54,54,100.0
+Defending,Clearances,54,54,100.0
+Defending,Interceptions,54,54,100.0
+Defending,Recoveries,54,54,100.0
+Defending,Tackles won,54,54,100.0
+Defending,Total tackles,54,54,100.0
+Duels,Aerial duels,54,54,100.0
+Duels,Dispossessed,54,54,100.0
+Duels,Dribbles,54,54,100.0
+Duels,Duels,54,54,100.0
+Duels,Ground duels,54,54,100.0
+Goalkeeping,Goal kicks,54,54,100.0
+Goalkeeping,Total saves,54,54,100.0
+Match overview,Ball possession,54,54,100.0
+Match overview,Corner kicks,54,54,100.0
+Match overview,Fouls,54,54,100.0
+Match overview,Free kicks,54,54,100.0
+Match overview,Goalkeeper saves,54,54,100.0
+Match overview,Passes,54,54,100.0
+Match overview,Tackles,54,54,100.0
+Match overview,Total shots,54,54,100.0
+Passes,Accurate passes,54,54,100.0
+Passes,Crosses,54,54,100.0
+Passes,Final third entries,54,54,100.0
+Passes,Final third phase,54,54,100.0
+Passes,Long balls,54,54,100.0
+Passes,Throw-ins,54,54,100.0
+Shots,Blocked shots,54,54,100.0
+Shots,Hit woodwork,54,54,100.0
+Shots,Shots inside box,54,54,100.0
+Shots,Shots off target,54,54,100.0
+Shots,Shots on target,54,54,100.0
+Shots,Shots outside box,54,54,100.0
+Shots,Total shots,54,54,100.0
+Match overview,Big chances,53,53,98.1
+Match overview,Yellow cards,52,52,96.3
+Attack,Big chances missed,51,51,94.4
+Attack,Offsides,50,50,92.6
+Attack,Big chances scored,47,47,87.0
+Match overview,Expected goals,45,45,83.3
+Goalkeeping,Goals prevented,44,44,81.5
+Goalkeeping,Big saves,39,39,72.2
+Defending,Errors lead to a shot,36,36,66.7
+Goalkeeping,Punches,32,32,59.3
+Match overview,Distance covered,32,32,59.3
+Match overview,Number of sprints,32,32,59.3
+Goalkeeping,High claims,29,29,53.7
+Attack,Through balls,26,26,48.1
+Defending,Errors lead to a goal,21,21,38.9
+Match overview,Red cards,14,14,25.9
+Goalkeeping,Penalty saves,4,4,7.4
