@@ -139,6 +139,17 @@ ul.task-list li input[type="checkbox"] {
   <ul class="collapse">
   <li><a href="#fbref-1" id="toc-fbref-1" class="nav-link" data-scroll-target="#fbref-1">FBref</a></li>
   </ul></li>
+  <li><a href="#resultado-real-versus-desfecho-sugerido-pelo-xg" id="toc-resultado-real-versus-desfecho-sugerido-pelo-xg" class="nav-link" data-scroll-target="#resultado-real-versus-desfecho-sugerido-pelo-xg">Resultado real versus desfecho sugerido pelo xG</a>
+  <ul class="collapse">
+  <li><a href="#objetivo" id="toc-objetivo" class="nav-link" data-scroll-target="#objetivo">Objetivo</a></li>
+  <li><a href="#fonte" id="toc-fonte" class="nav-link" data-scroll-target="#fonte">Fonte</a></li>
+  <li><a href="#fórmula" id="toc-fórmula" class="nav-link" data-scroll-target="#fórmula">Fórmula</a></li>
+  <li><a href="#classificação-provisória-do-xg" id="toc-classificação-provisória-do-xg" class="nav-link" data-scroll-target="#classificação-provisória-do-xg">Classificação provisória do xG</a></li>
+  <li><a href="#variáveis-produzidas" id="toc-variáveis-produzidas" class="nav-link" data-scroll-target="#variáveis-produzidas">Variáveis produzidas</a></li>
+  <li><a href="#interpretação" id="toc-interpretação" class="nav-link" data-scroll-target="#interpretação">Interpretação</a></li>
+  <li><a href="#limitações" id="toc-limitações" class="nav-link" data-scroll-target="#limitações">Limitações</a></li>
+  <li><a href="#estado" id="toc-estado" class="nav-link" data-scroll-target="#estado">Estado</a></li>
+  </ul></li>
   </ul></li>
   </ul>
 </nav>
@@ -315,6 +326,76 @@ ul.task-list li input[type="checkbox"] {
 <li>sem exportação estável da sequência cronológica dos golos por jogo</li>
 <li>sem tabela Goal and Shot Creation disponível para o Benfica nesta época</li>
 <li>cobertura variável conforme a tabela e a competição</li>
+</ul>
+</section>
+</section>
+<section id="resultado-real-versus-desfecho-sugerido-pelo-xg" class="level2">
+<h2 class="anchored" data-anchor-id="resultado-real-versus-desfecho-sugerido-pelo-xg">Resultado real versus desfecho sugerido pelo xG</h2>
+<section id="objetivo" class="level3">
+<h3 class="anchored" data-anchor-id="objetivo">Objetivo</h3>
+<p>Identificar jogos em que o resultado final divergiu da categoria de resultado sugerida pela diferença de xG.</p>
+</section>
+<section id="fonte" class="level3">
+<h3 class="anchored" data-anchor-id="fonte">Fonte</h3>
+<ul>
+<li>xG do Sofascore</li>
+<li>resultado final da tabela canónica</li>
+<li>validação possível através do FotMob</li>
+</ul>
+</section>
+<section id="fórmula" class="level3">
+<h3 class="anchored" data-anchor-id="fórmula">Fórmula</h3>
+<p><code>diferença de xG = xG Benfica - xG adversário</code></p>
+</section>
+<section id="classificação-provisória-do-xg" class="level3">
+<h3 class="anchored" data-anchor-id="classificação-provisória-do-xg">Classificação provisória do xG</h3>
+<ul>
+<li>diferença superior a <code>+0,25</code>: vitória sugerida pelo xG</li>
+<li>diferença entre <code>-0,25</code> e <code>+0,25</code>: empate sugerido pelo xG</li>
+<li>diferença inferior a <code>-0,25</code>: derrota sugerida pelo xG</li>
+</ul>
+</section>
+<section id="variáveis-produzidas" class="level3">
+<h3 class="anchored" data-anchor-id="variáveis-produzidas">Variáveis produzidas</h3>
+<ul>
+<li><code>xg_result</code></li>
+<li><code>actual_result_points</code></li>
+<li><code>xg_result_points</code></li>
+<li><code>result_performance_gap</code></li>
+<li><code>result_xg_class</code></li>
+</ul>
+</section>
+<section id="interpretação" class="level3">
+<h3 class="anchored" data-anchor-id="interpretação">Interpretação</h3>
+<p>A métrica compara o resultado real com uma categoria derivada exclusivamente da diferença de xG.</p>
+<p>Não representa uma avaliação completa do desempenho, porque não considera:</p>
+<ul>
+<li>evolução temporal do jogo</li>
+<li>estado do marcador</li>
+<li>qualidade do adversário</li>
+<li>expulsões</li>
+<li>contexto competitivo</li>
+<li>distribuição dos remates</li>
+<li>momento em que o xG foi produzido</li>
+<li>estratégia depois de obter vantagem</li>
+</ul>
+</section>
+<section id="limitações" class="level3">
+<h3 class="anchored" data-anchor-id="limitações">Limitações</h3>
+<ul>
+<li>limiar de <code>0,25</code> é uma decisão metodológica provisória</li>
+<li>pequenas alterações no limiar podem mudar a categoria de alguns jogos</li>
+<li>xG é um modelo probabilístico e não um resultado esperado determinístico</li>
+<li>a diferença de xG não distingue domínio constante de produção concentrada num curto período</li>
+</ul>
+</section>
+<section id="estado" class="level3">
+<h3 class="anchored" data-anchor-id="estado">Estado</h3>
+<ul>
+<li>versão: <code>v0.1</code></li>
+<li>cobertura: 34 jogos da Liga Portugal 2025/26</li>
+<li>implementação: <code>python/calculate_result_performance_gap.py</code></li>
+<li>saída: <code>data/processed/benfica_2025_26_result_performance_gap.csv</code></li>
 </ul>
 
 

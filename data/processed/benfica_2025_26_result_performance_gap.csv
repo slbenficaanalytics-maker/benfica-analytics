@@ -1,0 +1,35 @@
+benfica_match_id,date,opponent,venue,benfica_goals,opponent_goals,result,xg,opponent_xg,xg_difference,xg_result,actual_result_points,xg_result_points,result_performance_gap,result_xg_class
+SLB_20250816_A_ESTRELAAMADORA,2025-08-16,CF Estrela Amadora,Away,1,0,W,2.41,1.41,1.0000000000000002,W,3,3,0,Resultado coincidente com o desfecho do xG
+SLB_20250823_H_TONDELA,2025-08-23,Tondela,Home,3,0,W,2.96,0.47,2.49,W,3,3,0,Resultado coincidente com o desfecho do xG
+SLB_20250831_A_ALVERCA,2025-08-31,FC Alverca,Away,2,1,W,1.03,0.81,0.2199999999999999,D,3,1,2,Vitória quando o xG sugeria empate
+SLB_20250912_H_SANTACLARA,2025-09-12,Santa Clara,Home,1,1,D,1.62,1.02,0.6000000000000001,W,1,3,-2,Empate quando o xG sugeria vitória
+SLB_20250920_A_AVSFUTEBOLSAD,2025-09-20,AVS - Futebol SAD,Away,3,0,W,2.4,0.88,1.52,W,3,3,0,Resultado coincidente com o desfecho do xG
+SLB_20250923_H_RIOAVE,2025-09-23,Rio Ave,Home,1,1,D,2.57,0.16,2.41,W,1,3,-2,Empate quando o xG sugeria vitória
+SLB_20250926_H_GILVICENTE,2025-09-26,Gil Vicente,Home,2,1,W,1.27,1.26,0.01,D,3,1,2,Vitória quando o xG sugeria empate
+SLB_20251005_A_FCPORTO,2025-10-05,FC Porto,Away,0,0,D,0.12,0.68,-0.56,L,1,0,1,Empate quando o xG sugeria derrota
+SLB_20251025_H_AROUCA,2025-10-25,FC Arouca,Home,5,0,W,3.84,0.44,3.4,W,3,3,0,Resultado coincidente com o desfecho do xG
+SLB_20251101_A_VITORIAGUIMARAES,2025-11-01,Vitória SC,Away,3,0,W,2.13,0.43,1.7,W,3,3,0,Resultado coincidente com o desfecho do xG
+SLB_20251109_H_CASAPIA,2025-11-09,Casa Pia,Home,2,2,D,2.22,1.21,1.0100000000000002,W,1,3,-2,Empate quando o xG sugeria vitória
+SLB_20251129_A_NACIONAL,2025-11-29,CD Nacional,Away,2,1,W,2.4,0.39,2.01,W,3,3,0,Resultado coincidente com o desfecho do xG
+SLB_20251205_H_SPORTINGCP,2025-12-05,Sporting CP,Home,1,1,D,0.92,0.58,0.3400000000000001,W,1,3,-2,Empate quando o xG sugeria vitória
+SLB_20251214_A_MOREIRENSE,2025-12-14,Moreirense,Away,4,0,W,1.0,0.51,0.49,W,3,3,0,Resultado coincidente com o desfecho do xG
+SLB_20251222_H_FAMALICAO,2025-12-22,Famalicão,Home,1,0,W,1.28,0.21,1.07,W,3,3,0,Resultado coincidente com o desfecho do xG
+SLB_20251228_A_BRAGA,2025-12-28,Sporting Braga,Away,2,2,D,1.23,1.7,-0.47,L,1,0,1,Empate quando o xG sugeria derrota
+SLB_20260103_H_ESTORIL,2026-01-03,Estoril Praia,Home,3,1,W,2.27,0.71,1.56,W,3,3,0,Resultado coincidente com o desfecho do xG
+SLB_20260117_A_RIOAVE,2026-01-17,Rio Ave,Away,2,0,W,1.78,0.2,1.58,W,3,3,0,Resultado coincidente com o desfecho do xG
+SLB_20260125_H_ESTRELAAMADORA,2026-01-25,CF Estrela Amadora,Home,4,0,W,2.53,0.13,2.4,W,3,3,0,Resultado coincidente com o desfecho do xG
+SLB_20260201_A_TONDELA,2026-02-01,Tondela,Away,0,0,D,2.1,0.48,1.62,W,1,3,-2,Empate quando o xG sugeria vitória
+SLB_20260208_H_ALVERCA,2026-02-08,FC Alverca,Home,2,1,W,1.97,1.14,0.8300000000000001,W,3,3,0,Resultado coincidente com o desfecho do xG
+SLB_20260213_A_SANTACLARA,2026-02-13,Santa Clara,Away,2,1,W,1.19,0.28,0.91,W,3,3,0,Resultado coincidente com o desfecho do xG
+SLB_20260221_H_AVSFUTEBOLSAD,2026-02-21,AVS - Futebol SAD,Home,3,0,W,3.69,0.11,3.58,W,3,3,0,Resultado coincidente com o desfecho do xG
+SLB_20260302_A_GILVICENTE,2026-03-02,Gil Vicente,Away,2,1,W,0.75,0.88,-0.13,D,3,1,2,Vitória quando o xG sugeria empate
+SLB_20260308_H_FCPORTO,2026-03-08,FC Porto,Home,2,2,D,1.23,2.12,-0.8900000000000001,L,1,0,1,Empate quando o xG sugeria derrota
+SLB_20260314_A_AROUCA,2026-03-14,FC Arouca,Away,2,1,W,2.1,2.4,-0.2999999999999998,L,3,0,3,Vitória quando o xG sugeria derrota
+SLB_20260321_H_VITORIAGUIMARAES,2026-03-21,Vitória SC,Home,3,0,W,2.34,0.75,1.59,W,3,3,0,Resultado coincidente com o desfecho do xG
+SLB_20260406_A_CASAPIA,2026-04-06,Casa Pia,Away,1,1,D,1.93,0.29,1.64,W,1,3,-2,Empate quando o xG sugeria vitória
+SLB_20260412_H_NACIONAL,2026-04-12,CD Nacional,Home,2,0,W,3.43,0.25,3.18,W,3,3,0,Resultado coincidente com o desfecho do xG
+SLB_20260419_A_SPORTINGCP,2026-04-19,Sporting CP,Away,2,1,W,2.27,1.63,0.6400000000000001,W,3,3,0,Resultado coincidente com o desfecho do xG
+SLB_20260425_H_MOREIRENSE,2026-04-25,Moreirense,Home,4,1,W,1.99,0.89,1.1,W,3,3,0,Resultado coincidente com o desfecho do xG
+SLB_20260502_A_FAMALICAO,2026-05-02,Famalicão,Away,2,2,D,1.29,1.58,-0.29,L,1,0,1,Empate quando o xG sugeria derrota
+SLB_20260511_H_BRAGA,2026-05-11,Sporting Braga,Home,2,2,D,2.91,0.2,2.71,W,1,3,-2,Empate quando o xG sugeria vitória
+SLB_20260516_A_ESTORIL,2026-05-16,Estoril Praia,Away,3,1,W,4.15,1.52,2.6300000000000003,W,3,3,0,Resultado coincidente com o desfecho do xG

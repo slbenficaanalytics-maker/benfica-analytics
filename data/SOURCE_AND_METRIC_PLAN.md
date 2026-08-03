@@ -156,3 +156,62 @@ Limitações:
 - sem exportação estável da sequência cronológica dos golos por jogo
 - sem tabela Goal and Shot Creation disponível para o Benfica nesta época
 - cobertura variável conforme a tabela e a competição
+
+## Resultado real versus desfecho sugerido pelo xG
+
+### Objetivo
+
+Identificar jogos em que o resultado final divergiu da categoria de resultado sugerida pela diferença de xG.
+
+### Fonte
+
+- xG do Sofascore
+- resultado final da tabela canónica
+- validação possível através do FotMob
+
+### Fórmula
+
+`diferença de xG = xG Benfica - xG adversário`
+
+### Classificação provisória do xG
+
+- diferença superior a `+0,25`: vitória sugerida pelo xG
+- diferença entre `-0,25` e `+0,25`: empate sugerido pelo xG
+- diferença inferior a `-0,25`: derrota sugerida pelo xG
+
+### Variáveis produzidas
+
+- `xg_result`
+- `actual_result_points`
+- `xg_result_points`
+- `result_performance_gap`
+- `result_xg_class`
+
+### Interpretação
+
+A métrica compara o resultado real com uma categoria derivada exclusivamente da diferença de xG.
+
+Não representa uma avaliação completa do desempenho, porque não considera:
+
+- evolução temporal do jogo
+- estado do marcador
+- qualidade do adversário
+- expulsões
+- contexto competitivo
+- distribuição dos remates
+- momento em que o xG foi produzido
+- estratégia depois de obter vantagem
+
+### Limitações
+
+- limiar de `0,25` é uma decisão metodológica provisória
+- pequenas alterações no limiar podem mudar a categoria de alguns jogos
+- xG é um modelo probabilístico e não um resultado esperado determinístico
+- a diferença de xG não distingue domínio constante de produção concentrada num curto período
+
+### Estado
+
+- versão: `v0.1`
+- cobertura: 34 jogos da Liga Portugal 2025/26
+- implementação: `python/calculate_result_performance_gap.py`
+- saída: `data/processed/benfica_2025_26_result_performance_gap.csv`

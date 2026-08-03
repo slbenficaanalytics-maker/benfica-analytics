@@ -242,3 +242,62 @@ calendar_table |>
 ## Estado atual
 
 A época ainda não começou. Os resultados e indicadores serão atualizados depois de cada jogo.
+
+## Resultado real vs. desfecho sugerido pelo xG
+
+A diferença de xG foi convertida provisoriamente numa categoria de resultado: vitória quando superior a `+0,25`, empate entre `-0,25` e `+0,25` e derrota quando inferior a `-0,25`.
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+
+library(readr)
+library(dplyr)
+library(gt)
+
+resultado_xg <- read_csv(
+  "data/processed/benfica_2025_26_result_xg_summary.csv",
+  show_col_types = FALSE
+)
+
+resultado_xg |>
+  select(
+    data,
+    adversario,
+    local,
+    resultado,
+    xg,
+    diferenca_xg,
+    classificacao
+  ) |>
+  mutate(
+    diferenca_xg = round(diferenca_xg, 2)
+  ) |>
+  gt() |>
+  cols_label(
+    data = "Data",
+    adversario = "Adversário",
+    local = "Local",
+    resultado = "Resultado",
+    xg = "xG",
+    diferenca_xg = "Dif. xG",
+    classificacao = "Leitura"
+  ) |>
+  fmt_number(
+    columns = diferenca_xg,
+    decimals = 2,
+    use_seps = FALSE
+  ) |>
+  tab_header(
+    title = "Jogos com divergência entre resultado e xG",
+    subtitle = "Liga Portugal 2025/26"
+  ) |>
+  tab_source_note(
+    source_note = md(
+      "Fonte: Sofascore. Classificação metodológica provisória — versão 0.1."
+    )
+  )
+```
+
+Esta comparação não avalia isoladamente a qualidade global do desempenho: considera apenas o resultado final e a diferença de xG.

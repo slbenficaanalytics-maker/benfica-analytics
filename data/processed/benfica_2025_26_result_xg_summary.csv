@@ -1,0 +1,16 @@
+data,adversario,local,resultado,xg,diferenca_xg,classificacao,desvio_pontos
+11/05/2026,Sporting Braga,Casa,2–2,2.91–0.2,2.71,Empate quando o xG sugeria vitória,-2
+23/09/2025,Rio Ave,Casa,1–1,2.57–0.16,2.41,Empate quando o xG sugeria vitória,-2
+06/04/2026,Casa Pia,Fora,1–1,1.93–0.29,1.64,Empate quando o xG sugeria vitória,-2
+01/02/2026,Tondela,Fora,0–0,2.1–0.48,1.62,Empate quando o xG sugeria vitória,-2
+09/11/2025,Casa Pia,Casa,2–2,2.22–1.21,1.0100000000000002,Empate quando o xG sugeria vitória,-2
+12/09/2025,Santa Clara,Casa,1–1,1.62–1.02,0.6000000000000001,Empate quando o xG sugeria vitória,-2
+05/12/2025,Sporting CP,Casa,1–1,0.92–0.58,0.3400000000000001,Empate quando o xG sugeria vitória,-2
+02/05/2026,Famalicão,Fora,2–2,1.29–1.58,-0.29,Empate quando o xG sugeria derrota,1
+28/12/2025,Sporting Braga,Fora,2–2,1.23–1.7,-0.47,Empate quando o xG sugeria derrota,1
+05/10/2025,FC Porto,Fora,0–0,0.12–0.68,-0.56,Empate quando o xG sugeria derrota,1
+08/03/2026,FC Porto,Casa,2–2,1.23–2.12,-0.8900000000000001,Empate quando o xG sugeria derrota,1
+31/08/2025,FC Alverca,Fora,2–1,1.03–0.81,0.2199999999999999,Vitória quando o xG sugeria empate,2
+26/09/2025,Gil Vicente,Casa,2–1,1.27–1.26,0.01,Vitória quando o xG sugeria empate,2
+02/03/2026,Gil Vicente,Fora,2–1,0.75–0.88,-0.13,Vitória quando o xG sugeria empate,2
+14/03/2026,FC Arouca,Fora,2–1,2.1–2.4,-0.2999999999999998,Vitória quando o xG sugeria derrota,3

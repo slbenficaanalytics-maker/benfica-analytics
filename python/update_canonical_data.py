@@ -17,6 +17,8 @@ scripts = [
     "python/add_canonical_id_to_sofascore_players.py",
     "python/create_liga_match_analysis.py",
     "python/audit_liga_match_analysis.py",
+    "python/calculate_result_performance_gap.py",
+    "python/create_result_xg_summary.py",
 ]
 
 
